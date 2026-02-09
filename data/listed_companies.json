@@ -1,0 +1,4234 @@
+[
+    {
+        "company": "7-ELEVEN MALAYSIA HOLDINGS BERHAD",
+        "ticker": "5250"
+    },
+    {
+        "company": "ABF MALAYSIA BOND INDEX FUND",
+        "ticker": "0800EA"
+    },
+    {
+        "company": "ABLE GLOBAL BERHAD",
+        "ticker": "7167"
+    },
+    {
+        "company": "ABLEGROUP BERHAD",
+        "ticker": "7086"
+    },
+    {
+        "company": "ABM FUJIYA BERHAD",
+        "ticker": "5198"
+    },
+    {
+        "company": "ACME HOLDINGS BERHAD",
+        "ticker": "7131"
+    },
+    {
+        "company": "ACO GROUP BERHAD",
+        "ticker": "0218"
+    },
+    {
+        "company": "ADVANCE INFORMATION MARKETING BERHAD",
+        "ticker": "0122"
+    },
+    {
+        "company": "ADVANCE SYNERGY BERHAD",
+        "ticker": "1481"
+    },
+    {
+        "company": "ADVANCECON HOLDINGS BERHAD",
+        "ticker": "5281"
+    },
+    {
+        "company": "ADVENTA BERHAD",
+        "ticker": "7191"
+    },
+    {
+        "company": "AE MULTI HOLDINGS BERHAD",
+        "ticker": "7146"
+    },
+    {
+        "company": "AEMULUS HOLDINGS BERHAD",
+        "ticker": "0181"
+    },
+    {
+        "company": "AEON CO. (M) BHD",
+        "ticker": "6599"
+    },
+    {
+        "company": "AEON CREDIT SERVICE (M) BERHAD",
+        "ticker": "5139"
+    },
+    {
+        "company": "AFFIN BANK BERHAD",
+        "ticker": "5185"
+    },
+    {
+        "company": "AGESON BERHAD",
+        "ticker": "7145"
+    },
+    {
+        "company": "AGMO HOLDINGS BERHAD",
+        "ticker": "0258"
+    },
+    {
+        "company": "AGRICORE CS HOLDINGS BERHAD",
+        "ticker": "0309"
+    },
+    {
+        "company": "AGX GROUP BERHAD",
+        "ticker": "0299"
+    },
+    {
+        "company": "AHB HOLDINGS BERHAD",
+        "ticker": "7315"
+    },
+    {
+        "company": "AHMAD ZAKI RESOURCES BERHAD",
+        "ticker": "7078"
+    },
+    {
+        "company": "AIMFLEX BERHAD",
+        "ticker": "0209"
+    },
+    {
+        "company": "AIRASIA X BERHAD",
+        "ticker": "5238"
+    },
+    {
+        "company": "AJINOMOTO (MALAYSIA) BERHAD",
+        "ticker": "2658"
+    },
+    {
+        "company": "AJIYA BERHAD",
+        "ticker": "7609"
+    },
+    {
+        "company": "ALAM MARITIM RESOURCES BERHAD",
+        "ticker": "5115"
+    },
+    {
+        "company": "AL-'AQAR HEALTHCARE REIT",
+        "ticker": "5116"
+    },
+    {
+        "company": "ALCOM GROUP BERHAD",
+        "ticker": "2674"
+    },
+    {
+        "company": "ALDRICH RESOURCES BERHAD",
+        "ticker": "0079"
+    },
+    {
+        "company": "ALLIANCE BANK MALAYSIA BERHAD",
+        "ticker": "2488"
+    },
+    {
+        "company": "ALLIANZ MALAYSIA BERHAD",
+        "ticker": "1163"
+    },
+    {
+        "company": "ALPHA IVF GROUP BERHAD",
+        "ticker": "0303"
+    },
+    {
+        "company": "ALPHA OCEAN RESOURCES BERHAD",
+        "ticker": "03051"
+    },
+    {
+        "company": "AL-SALAM REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5269"
+    },
+    {
+        "company": "AMANAHRAYA REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5127"
+    },
+    {
+        "company": "AME ELITE CONSORTIUM BERHAD",
+        "ticker": "5293"
+    },
+    {
+        "company": "AME REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5307"
+    },
+    {
+        "company": "AMFIRST REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5120"
+    },
+    {
+        "company": "AMLEX HOLDINGS BERHAD",
+        "ticker": "03011"
+    },
+    {
+        "company": "AMMB HOLDINGS BERHAD",
+        "ticker": "1015"
+    },
+    {
+        "company": "AMTEL HOLDINGS BERHAD",
+        "ticker": "7031"
+    },
+    {
+        "company": "AMWAY (MALAYSIA) HOLDINGS BERHAD",
+        "ticker": "6351"
+    },
+    {
+        "company": "ANALABS RESOURCES BERHAD",
+        "ticker": "7083"
+    },
+    {
+        "company": "ANCOM LOGISTICS BERHAD",
+        "ticker": "0048"
+    },
+    {
+        "company": "ANCOM NYLEX BERHAD",
+        "ticker": "4758"
+    },
+    {
+        "company": "ANEKA JARINGAN HOLDINGS BERHAD",
+        "ticker": "0226"
+    },
+    {
+        "company": "ANN JOO RESOURCES BERHAD",
+        "ticker": "6556"
+    },
+    {
+        "company": "ANNUM BERHAD",
+        "ticker": "5082"
+    },
+    {
+        "company": "APB RESOURCES BERHAD",
+        "ticker": "5568"
+    },
+    {
+        "company": "APEX EQUITY HOLDINGS BERHAD",
+        "ticker": "5088"
+    },
+    {
+        "company": "APEX HEALTHCARE BERHAD",
+        "ticker": "7090"
+    },
+    {
+        "company": "APM AUTOMOTIVE HOLDINGS BERHAD",
+        "ticker": "5015"
+    },
+    {
+        "company": "APOLLO FOOD HOLDINGS BERHAD",
+        "ticker": "6432"
+    },
+    {
+        "company": "APPASIA BERHAD",
+        "ticker": "0119"
+    },
+    {
+        "company": "A-RANK BERHAD",
+        "ticker": "7214"
+    },
+    {
+        "company": "ARB BERHAD",
+        "ticker": "7181"
+    },
+    {
+        "company": "ARK RESOURCES HOLDINGS BERHAD",
+        "ticker": "7007"
+    },
+    {
+        "company": "ARKA BERHAD",
+        "ticker": "7218"
+    },
+    {
+        "company": "ARTRONIQ BERHAD",
+        "ticker": "0038"
+    },
+    {
+        "company": "ASDION BERHAD",
+        "ticker": "0068"
+    },
+    {
+        "company": "ASIA BRANDS BERHAD",
+        "ticker": "7722"
+    },
+    {
+        "company": "ASIA FILE CORPORATION BHD",
+        "ticker": "7129"
+    },
+    {
+        "company": "ASIA POLY HOLDINGS BERHAD",
+        "ticker": "0105"
+    },
+    {
+        "company": "ASIAN PAC HOLDINGS BERHAD",
+        "ticker": "4057"
+    },
+    {
+        "company": "ASTEEL GROUP BERHAD",
+        "ticker": "7020"
+    },
+    {
+        "company": "ASTINO BERHAD",
+        "ticker": "7162"
+    },
+    {
+        "company": "ASTRAL ASIA BERHAD",
+        "ticker": "7054"
+    },
+    {
+        "company": "ASTRAMINA GROUP BERHAD",
+        "ticker": "03032"
+    },
+    {
+        "company": "ASTRO MALAYSIA HOLDINGS BERHAD",
+        "ticker": "6399"
+    },
+    {
+        "company": "AT SYSTEMATIZATION BERHAD",
+        "ticker": "0072"
+    },
+    {
+        "company": "ATA IMS BERHAD",
+        "ticker": "8176"
+    },
+    {
+        "company": "ATLAN HOLDINGS BHD",
+        "ticker": "7048"
+    },
+    {
+        "company": "ATRIUM REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5130"
+    },
+    {
+        "company": "AURELIUS TECHNOLOGIES BERHAD",
+        "ticker": "5302"
+    },
+    {
+        "company": "AURO HOLDINGS BERHAD",
+        "ticker": "5025"
+    },
+    {
+        "company": "AURORA ITALIA INTERNATIONAL BERHAD",
+        "ticker": "03037"
+    },
+    {
+        "company": "AUTOCOUNT DOTCOM BERHAD",
+        "ticker": "0276"
+    },
+    {
+        "company": "AVALAND BERHAD",
+        "ticker": "5182"
+    },
+    {
+        "company": "AVILLION BERHAD",
+        "ticker": "8885"
+    },
+    {
+        "company": "AWANBIRU TECHNOLOGY BERHAD",
+        "ticker": "5204"
+    },
+    {
+        "company": "AWC BERHAD",
+        "ticker": "7579"
+    },
+    {
+        "company": "AXIATA GROUP BERHAD",
+        "ticker": "6888"
+    },
+    {
+        "company": "AXIS REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5106"
+    },
+    {
+        "company": "AXTERIA GROUP BERHAD",
+        "ticker": "7120"
+    },
+    {
+        "company": "AYER HOLDINGS BERHAD",
+        "ticker": "2305"
+    },
+    {
+        "company": "AYS VENTURES BERHAD",
+        "ticker": "5021"
+    },
+    {
+        "company": "B.I.G. INDUSTRIES BERHAD",
+        "ticker": "7005"
+    },
+    {
+        "company": "BABA ECO GROUP BERHAD",
+        "ticker": "03012"
+    },
+    {
+        "company": "BAHVEST RESOURCES BERHAD",
+        "ticker": "0098"
+    },
+    {
+        "company": "BANK ISLAM MALAYSIA BERHAD",
+        "ticker": "5258"
+    },
+    {
+        "company": "BARAKAH OFFSHORE PETROLEUM BERHAD",
+        "ticker": "7251"
+    },
+    {
+        "company": "BATU KAWAN BERHAD",
+        "ticker": "1899"
+    },
+    {
+        "company": "BCB BERHAD",
+        "ticker": "6602"
+    },
+    {
+        "company": "BCM ALLIANCE BERHAD",
+        "ticker": "0187"
+    },
+    {
+        "company": "BENALEC HOLDINGS BERHAD",
+        "ticker": "5190"
+    },
+    {
+        "company": "BERJAYA ASSETS BERHAD",
+        "ticker": "3239"
+    },
+    {
+        "company": "BERJAYA CORPORATION BERHAD",
+        "ticker": "3395"
+    },
+    {
+        "company": "BERJAYA FOOD BERHAD",
+        "ticker": "5196"
+    },
+    {
+        "company": "BERJAYA LAND BERHAD",
+        "ticker": "4219"
+    },
+    {
+        "company": "BERMAZ AUTO BERHAD",
+        "ticker": "5248"
+    },
+    {
+        "company": "BERTAM ALLIANCE BERHAD",
+        "ticker": "9814"
+    },
+    {
+        "company": "BESHOM HOLDINGS BERHAD",
+        "ticker": "7668"
+    },
+    {
+        "company": "BETAMEK BERHAD",
+        "ticker": "0263"
+    },
+    {
+        "company": "BINA DARULAMAN BERHAD",
+        "ticker": "6173"
+    },
+    {
+        "company": "BINA PURI HOLDINGS BHD",
+        "ticker": "5932"
+    },
+    {
+        "company": "BINASAT COMMUNICATIONS BERHAD",
+        "ticker": "0195"
+    },
+    {
+        "company": "BINASTRA CORPORATION BERHAD",
+        "ticker": "7195"
+    },
+    {
+        "company": "BINTAI KINDEN CORPORATION BERHAD",
+        "ticker": "6998"
+    },
+    {
+        "company": "BINTULU PORT HOLDINGS BERHAD",
+        "ticker": "5032"
+    },
+    {
+        "company": "BIOALPHA HOLDINGS BERHAD",
+        "ticker": "0179"
+    },
+    {
+        "company": "BLD PLANTATION BHD.",
+        "ticker": "5069"
+    },
+    {
+        "company": "BM GREENTECH BERHAD",
+        "ticker": "0168"
+    },
+    {
+        "company": "BONIA CORPORATION BERHAD",
+        "ticker": "9288"
+    },
+    {
+        "company": "BORNEO OIL BERHAD",
+        "ticker": "7036"
+    },
+    {
+        "company": "BOUSTEAD HEAVY INDUSTRIES CORPORATION BHD",
+        "ticker": "8133"
+    },
+    {
+        "company": "BOX-PAK (MALAYSIA) BERHAD",
+        "ticker": "6297"
+    },
+    {
+        "company": "BP PLASTICS HOLDING BHD",
+        "ticker": "5100"
+    },
+    {
+        "company": "BRIGHT PACKAGING INDUSTRY BERHAD",
+        "ticker": "9938"
+    },
+    {
+        "company": "BRITE-TECH BERHAD",
+        "ticker": "0011"
+    },
+    {
+        "company": "BRITISH AMERICAN TOBACCO (MALAYSIA) BERHAD",
+        "ticker": "4162"
+    },
+    {
+        "company": "BSL CORPORATION BERHAD",
+        "ticker": "7221"
+    },
+    {
+        "company": "BTM RESOURCES BERHAD",
+        "ticker": "7188"
+    },
+    {
+        "company": "BUMI ARMADA BERHAD",
+        "ticker": "5210"
+    },
+    {
+        "company": "BURSA MALAYSIA BERHAD",
+        "ticker": "1818"
+    },
+    {
+        "company": "BV LAND HOLDINGS BERHAD",
+        "ticker": "03042"
+    },
+    {
+        "company": "BWYS GROUP BERHAD",
+        "ticker": "0313"
+    },
+    {
+        "company": "C.I. HOLDINGS BERHAD",
+        "ticker": "2828"
+    },
+    {
+        "company": "CAB CAKARAN CORPORATION BERHAD",
+        "ticker": "7174"
+    },
+    {
+        "company": "CABNET HOLDINGS BERHAD",
+        "ticker": "0191"
+    },
+    {
+        "company": "CAHYA MATA SARAWAK BERHAD",
+        "ticker": "2852"
+    },
+    {
+        "company": "CAM RESOURCES BERHAD",
+        "ticker": "7128"
+    },
+    {
+        "company": "CAN-ONE BERHAD",
+        "ticker": "5105"
+    },
+    {
+        "company": "CAPE EMS BERHAD",
+        "ticker": "5311"
+    },
+    {
+        "company": "CAPITAL A BERHAD",
+        "ticker": "5099"
+    },
+    {
+        "company": "CAPITALAND MALAYSIA TRUST",
+        "ticker": "5180"
+    },
+    {
+        "company": "CAREPLUS GROUP BERHAD",
+        "ticker": "0163"
+    },
+    {
+        "company": "CARIMIN PETROLEUM BERHAD",
+        "ticker": "5257"
+    },
+    {
+        "company": "CARLO RINO GROUP BERHAD",
+        "ticker": "03016"
+    },
+    {
+        "company": "CARLSBERG BREWERY MALAYSIA BERHAD",
+        "ticker": "2836"
+    },
+    {
+        "company": "CARZO HOLDINGS BERHAD",
+        "ticker": "03048"
+    },
+    {
+        "company": "CATCHA DIGITAL BERHAD",
+        "ticker": "0173"
+    },
+    {
+        "company": "CB INDUSTRIAL PRODUCT HOLDING BERHAD",
+        "ticker": "7076"
+    },
+    {
+        "company": "CC INTERNATIONAL BERHAD",
+        "ticker": "03053"
+    },
+    {
+        "company": "CCK CONSOLIDATED HOLDINGS BERHAD",
+        "ticker": "7035"
+    },
+    {
+        "company": "CE TECHNOLOGY BERHAD",
+        "ticker": "03024"
+    },
+    {
+        "company": "CEKD BERHAD",
+        "ticker": "0238"
+    },
+    {
+        "company": "CELCOMDIGI BERHAD",
+        "ticker": "6947"
+    },
+    {
+        "company": "CENGILD MEDICAL BERHAD",
+        "ticker": "0243"
+    },
+    {
+        "company": "CENSOF HOLDINGS BERHAD",
+        "ticker": "5195"
+    },
+    {
+        "company": "CENTRAL GLOBAL BERHAD",
+        "ticker": "8052"
+    },
+    {
+        "company": "CEPATWAWASAN GROUP BERHAD",
+        "ticker": "8982"
+    },
+    {
+        "company": "CHEETAH HOLDINGS BERHAD",
+        "ticker": "7209"
+    },
+    {
+        "company": "CHIN HIN GROUP BERHAD",
+        "ticker": "5273"
+    },
+    {
+        "company": "CHIN HIN GROUP PROPERTY BERHAD",
+        "ticker": "7187"
+    },
+    {
+        "company": "CHIN TECK PLANTATIONS BERHAD",
+        "ticker": "1929"
+    },
+    {
+        "company": "CHIN WELL HOLDINGS BERHAD",
+        "ticker": "5007"
+    },
+    {
+        "company": "CHINA OUHUA WINERY HOLDINGS LIMITED",
+        "ticker": "5188"
+    },
+    {
+        "company": "CHOO BEE METAL INDUSTRIES BHD",
+        "ticker": "5797"
+    },
+    {
+        "company": "CHUAN HUAT RESOURCES BHD",
+        "ticker": "7016"
+    },
+    {
+        "company": "CIMB GROUP HOLDINGS BERHAD",
+        "ticker": "1023"
+    },
+    {
+        "company": "CITAGLOBAL BERHAD",
+        "ticker": "7245"
+    },
+    {
+        "company": "CITRA NUSA HOLDINGS BERHAD",
+        "ticker": "5104"
+    },
+    {
+        "company": "CJ CENTURY LOGISTICS HOLDINGS BERHAD",
+        "ticker": "7117"
+    },
+    {
+        "company": "CLASSITA HOLDINGS BERHAD",
+        "ticker": "7154"
+    },
+    {
+        "company": "CLOUDARON GROUP BERHAD",
+        "ticker": "03001"
+    },
+    {
+        "company": "CLOUDPOINT TECHNOLOGY BERHAD",
+        "ticker": "0277"
+    },
+    {
+        "company": "CME GROUP BERHAD",
+        "ticker": "7018"
+    },
+    {
+        "company": "CN ASIA CORPORATION BHD",
+        "ticker": "7986"
+    },
+    {
+        "company": "CNERGENZ BERHAD",
+        "ticker": "0246"
+    },
+    {
+        "company": "COASTAL CONTRACTS BHD",
+        "ticker": "5071"
+    },
+    {
+        "company": "COMFORT GLOVES BERHAD",
+        "ticker": "2127"
+    },
+    {
+        "company": "COMPUGATES HOLDINGS BERHAD",
+        "ticker": "5037"
+    },
+    {
+        "company": "COMPUTER FORMS (MALAYSIA) BERHAD",
+        "ticker": "8044"
+    },
+    {
+        "company": "CONCRETE ENGINEERING PRODUCTS BERHAD",
+        "ticker": "8435"
+    },
+    {
+        "company": "CORAZA INTEGRATED TECHNOLOGY BERHAD",
+        "ticker": "0240"
+    },
+    {
+        "company": "COSMOS TECHNOLOGY INTERNATIONAL BERHAD",
+        "ticker": "0261"
+    },
+    {
+        "company": "COUNTRY HEIGHTS HOLDINGS BHD",
+        "ticker": "5738"
+    },
+    {
+        "company": "COUNTRY VIEW BERHAD",
+        "ticker": "5049"
+    },
+    {
+        "company": "CPE TECHNOLOGY BERHAD",
+        "ticker": "5317"
+    },
+    {
+        "company": "CRESCENDO CORPORATION BERHAD",
+        "ticker": "6718"
+    },
+    {
+        "company": "CREST BUILDER HOLDINGS BERHAD",
+        "ticker": "8591"
+    },
+    {
+        "company": "CRITICAL HOLDINGS BERHAD",
+        "ticker": "0291"
+    },
+    {
+        "company": "CSC STEEL HOLDINGS BERHAD",
+        "ticker": "5094"
+    },
+    {
+        "company": "CTOS DIGITAL BERHAD",
+        "ticker": "5301"
+    },
+    {
+        "company": "CUSCAPI BERHAD",
+        "ticker": "0051"
+    },
+    {
+        "company": "CWG HOLDINGS BERHAD",
+        "ticker": "9423"
+    },
+    {
+        "company": "CYBERJAYA EDUCATION GROUP BERHAD",
+        "ticker": "5166"
+    },
+    {
+        "company": "CYL CORPORATION BERHAD",
+        "ticker": "7157"
+    },
+    {
+        "company": "CYPARK RESOURCES BERHAD",
+        "ticker": "5184"
+    },
+    {
+        "company": "D & O GREEN TECHNOLOGIES BERHAD",
+        "ticker": "7204"
+    },
+    {
+        "company": "DAGANG NEXCHANGE BERHAD",
+        "ticker": "4456"
+    },
+    {
+        "company": "DANAINFRA NASIONAL BERHAD",
+        "ticker": "0400GB"
+    },
+    {
+        "company": "DANCOMECH HOLDINGS BERHAD",
+        "ticker": "5276"
+    },
+    {
+        "company": "DATAPREP HOLDINGS BHD",
+        "ticker": "8338"
+    },
+    {
+        "company": "DATASONIC GROUP BERHAD",
+        "ticker": "5216"
+    },
+    {
+        "company": "DAYANG ENTERPRISE HOLDINGS BERHAD",
+        "ticker": "5141"
+    },
+    {
+        "company": "DAYTHREE DIGITAL BERHAD",
+        "ticker": "0281"
+    },
+    {
+        "company": "DC HEALTHCARE HOLDINGS BERHAD",
+        "ticker": "0283"
+    },
+    {
+        "company": "DELEUM BERHAD",
+        "ticker": "5132"
+    },
+    {
+        "company": "DESTINI BERHAD",
+        "ticker": "7212"
+    },
+    {
+        "company": "DFCITY GROUP BERHAD",
+        "ticker": "5165"
+    },
+    {
+        "company": "DGB ASIA BERHAD",
+        "ticker": "0152"
+    },
+    {
+        "company": "DIALOG GROUP BERHAD",
+        "ticker": "7277"
+    },
+    {
+        "company": "DIGISTAR CORPORATION BERHAD",
+        "ticker": "0029"
+    },
+    {
+        "company": "DIVFEX BERHAD",
+        "ticker": "0131"
+    },
+    {
+        "company": "DKLS INDUSTRIES BHD",
+        "ticker": "7528"
+    },
+    {
+        "company": "DKSH HOLDINGS (MALAYSIA) BERHAD",
+        "ticker": "5908"
+    },
+    {
+        "company": "D'NONCE TECHNOLOGY BHD",
+        "ticker": "7114"
+    },
+    {
+        "company": "DOLPHIN INTERNATIONAL BERHAD",
+        "ticker": "5265"
+    },
+    {
+        "company": "DOMINANT ENTERPRISE BERHAD",
+        "ticker": "7169"
+    },
+    {
+        "company": "DPI HOLDINGS BERHAD",
+        "ticker": "0205"
+    },
+    {
+        "company": "DPS RESOURCES BERHAD",
+        "ticker": "7198"
+    },
+    {
+        "company": "DRB-HICOM BERHAD",
+        "ticker": "1619"
+    },
+    {
+        "company": "DS SIGMA HOLDINGS BERHAD",
+        "ticker": "0269"
+    },
+    {
+        "company": "DSR TAIKO BERHAD",
+        "ticker": "03055"
+    },
+    {
+        "company": "DUFU TECHNOLOGY CORP. BERHAD",
+        "ticker": "7233"
+    },
+    {
+        "company": "DUOPHARMA BIOTECH BERHAD",
+        "ticker": "7148"
+    },
+    {
+        "company": "DUTALAND BERHAD",
+        "ticker": "3948"
+    },
+    {
+        "company": "DUTCH LADY MILK INDUSTRIES BERHAD",
+        "ticker": "3026"
+    },
+    {
+        "company": "DXN HOLDINGS BHD.",
+        "ticker": "5318"
+    },
+    {
+        "company": "DYNAFRONT HOLDINGS BERHAD",
+        "ticker": "03046"
+    },
+    {
+        "company": "E.A.TECHNIQUE (M) BERHAD",
+        "ticker": "5259"
+    },
+    {
+        "company": "EA HOLDINGS BERHAD",
+        "ticker": "0154"
+    },
+    {
+        "company": "EASTERN & ORIENTAL BERHAD",
+        "ticker": "3417"
+    },
+    {
+        "company": "ECA INTEGRATED SOLUTION BERHAD",
+        "ticker": "0267"
+    },
+    {
+        "company": "ECM LIBRA GROUP BERHAD",
+        "ticker": "2143"
+    },
+    {
+        "company": "ECO WORLD DEVELOPMENT GROUP BERHAD",
+        "ticker": "8206"
+    },
+    {
+        "company": "ECO WORLD INTERNATIONAL BERHAD",
+        "ticker": "5283"
+    },
+    {
+        "company": "ECOBUILT HOLDINGS BERHAD",
+        "ticker": "0059"
+    },
+    {
+        "company": "ECOFIRST CONSOLIDATED BHD",
+        "ticker": "3557"
+    },
+    {
+        "company": "ECOMATE HOLDINGS BERHAD",
+        "ticker": "0239"
+    },
+    {
+        "company": "ECONFRAME BERHAD",
+        "ticker": "0227"
+    },
+    {
+        "company": "ECONPILE HOLDINGS BERHAD",
+        "ticker": "5253"
+    },
+    {
+        "company": "ECOSCIENCE INTERNATIONAL BERHAD",
+        "ticker": "0255"
+    },
+    {
+        "company": "EDARAN BERHAD",
+        "ticker": "5036"
+    },
+    {
+        "company": "EDELTEQ HOLDINGS BERHAD",
+        "ticker": "0278"
+    },
+    {
+        "company": "EDEN INC. BERHAD",
+        "ticker": "7471"
+    },
+    {
+        "company": "EDUSPEC HOLDINGS BERHAD",
+        "ticker": "0107"
+    },
+    {
+        "company": "EFFICIENT E-SOLUTIONS BERHAD",
+        "ticker": "0064"
+    },
+    {
+        "company": "EG INDUSTRIES BERHAD",
+        "ticker": "8907"
+    },
+    {
+        "company": "EITA RESOURCES BERHAD",
+        "ticker": "5208"
+    },
+    {
+        "company": "EKOVEST BERHAD",
+        "ticker": "8877"
+    },
+    {
+        "company": "EKSONS CORPORATION BERHAD",
+        "ticker": "9016"
+    },
+    {
+        "company": "ELK-DESA RESOURCES BERHAD",
+        "ticker": "5228"
+    },
+    {
+        "company": "ELSOFT RESEARCH BERHAD",
+        "ticker": "0090"
+    },
+    {
+        "company": "EMICO HOLDINGS BERHAD",
+        "ticker": "9091"
+    },
+    {
+        "company": "ENCORP BERHAD",
+        "ticker": "6076"
+    },
+    {
+        "company": "ENEST GROUP BERHAD",
+        "ticker": "03025"
+    },
+    {
+        "company": "ENG KAH CORPORATION BERHAD",
+        "ticker": "7149"
+    },
+    {
+        "company": "ENGTEX GROUP BERHAD",
+        "ticker": "5056"
+    },
+    {
+        "company": "ENRA GROUP BERHAD",
+        "ticker": "8613"
+    },
+    {
+        "company": "EONMETALL GROUP BERHAD",
+        "ticker": "7217"
+    },
+    {
+        "company": "EP MANUFACTURING BHD",
+        "ticker": "7773"
+    },
+    {
+        "company": "EPICON BERHAD",
+        "ticker": "4847"
+    },
+    {
+        "company": "EQ8 DOW JONES ISLAMIC MARKET MALAYSIA TITANS 25 ETF",
+        "ticker": "0821EA"
+    },
+    {
+        "company": "EQ8 DOW JONES US TITANS 50 ETF",
+        "ticker": "0827EA"
+    },
+    {
+        "company": "EQ8 MSCI MALAYSIA ISLAMIC DIVIDEND ETF",
+        "ticker": "0824EA"
+    },
+    {
+        "company": "EQ8 MSCI SEA ISLAMIC DIVIDEND ETF",
+        "ticker": "0825EA"
+    },
+    {
+        "company": "EQUITIESTRACKER HOLDINGS BERHAD",
+        "ticker": "03021"
+    },
+    {
+        "company": "ES CERAMICS TECHNOLOGY BHD",
+        "ticker": "0100"
+    },
+    {
+        "company": "ESTHETICS INTERNATIONAL GROUP BERHAD",
+        "ticker": "5081"
+    },
+    {
+        "company": "EUPE CORPORATION BERHAD",
+        "ticker": "6815"
+    },
+    {
+        "company": "EURO HOLDINGS BERHAD",
+        "ticker": "7208"
+    },
+    {
+        "company": "EUROSPAN HOLDINGS BERHAD",
+        "ticker": "7094"
+    },
+    {
+        "company": "EVD BERHAD",
+        "ticker": "0174"
+    },
+    {
+        "company": "EVERGREEN FIBREBOARD BERHAD",
+        "ticker": "5101"
+    },
+    {
+        "company": "EVERGREEN MAX CASH CAPITAL BERHAD",
+        "ticker": "0286"
+    },
+    {
+        "company": "EVERSAFE RUBBER BERHAD",
+        "ticker": "0190"
+    },
+    {
+        "company": "EVERSENDAI CORPORATION BERHAD",
+        "ticker": "5205"
+    },
+    {
+        "company": "EWEIN BERHAD",
+        "ticker": "7249"
+    },
+    {
+        "company": "EXCEL FORCE MSC BERHAD",
+        "ticker": "0065"
+    },
+    {
+        "company": "FACB INDUSTRIES INCORPORATED BERHAD",
+        "ticker": "2984"
+    },
+    {
+        "company": "FAJARBARU BUILDER GROUP BHD",
+        "ticker": "7047"
+    },
+    {
+        "company": "FAR EAST HOLDINGS BERHAD",
+        "ticker": "5029"
+    },
+    {
+        "company": "FARLIM GROUP (MALAYSIA) BHD",
+        "ticker": "6041"
+    },
+    {
+        "company": "FARM FRESH BERHAD",
+        "ticker": "5306"
+    },
+    {
+        "company": "FARM PRICE HOLDINGS BERHAD",
+        "ticker": "0304"
+    },
+    {
+        "company": "FAST ENERGY HOLDINGS BERHAD",
+        "ticker": "0084"
+    },
+    {
+        "company": "FAVELLE FAVCO BERHAD",
+        "ticker": "7229"
+    },
+    {
+        "company": "FCW HOLDINGS BERHAD",
+        "ticker": "2755"
+    },
+    {
+        "company": "FEDERAL INTERNATIONAL HOLDINGS BERHAD",
+        "ticker": "8605"
+    },
+    {
+        "company": "FEYTECH HOLDINGS BERHAD",
+        "ticker": "5322"
+    },
+    {
+        "company": "FGV HOLDINGS BERHAD",
+        "ticker": "5222"
+    },
+    {
+        "company": "FIAMMA HOLDINGS BERHAD",
+        "ticker": "6939"
+    },
+    {
+        "company": "FIBON BERHAD",
+        "ticker": "0149"
+    },
+    {
+        "company": "FIBROMAT (M) BERHAD",
+        "ticker": "03026"
+    },
+    {
+        "company": "FIMA CORPORATION BERHAD",
+        "ticker": "3107"
+    },
+    {
+        "company": "FINTEC GLOBAL BERHAD",
+        "ticker": "0150"
+    },
+    {
+        "company": "FITTERS DIVERSIFIED BERHAD",
+        "ticker": "9318"
+    },
+    {
+        "company": "FLEXIDYNAMIC HOLDINGS BERHAD",
+        "ticker": "0231"
+    },
+    {
+        "company": "FM GLOBAL LOGISTICS HOLDINGS BERHAD",
+        "ticker": "7210"
+    },
+    {
+        "company": "FOCUS DYNAMICS GROUP BERHAD",
+        "ticker": "0116"
+    },
+    {
+        "company": "FOCUS LUMBER BERHAD",
+        "ticker": "5197"
+    },
+    {
+        "company": "FOCUS POINT HOLDINGS BERHAD",
+        "ticker": "0157"
+    },
+    {
+        "company": "FORMOSA PROSONIC INDUSTRIES BERHAD",
+        "ticker": "9172"
+    },
+    {
+        "company": "FOUNDPAC GROUP BERHAD",
+        "ticker": "5277"
+    },
+    {
+        "company": "FRASER & NEAVE HOLDINGS BHD",
+        "ticker": "3689"
+    },
+    {
+        "company": "FRONTKEN CORPORATION BERHAD",
+        "ticker": "0128"
+    },
+    {
+        "company": "FSBM HOLDINGS BERHAD",
+        "ticker": "9377"
+    },
+    {
+        "company": "FTSE BURSA MALAYSIA KLCI ETF",
+        "ticker": "0820EA"
+    },
+    {
+        "company": "G CAPITAL BERHAD",
+        "ticker": "7676"
+    },
+    {
+        "company": "G3 GLOBAL BERHAD",
+        "ticker": "7184"
+    },
+    {
+        "company": "GABUNGAN AQRS BERHAD",
+        "ticker": "5226"
+    },
+    {
+        "company": "GADANG HOLDINGS BHD",
+        "ticker": "9261"
+    },
+    {
+        "company": "GAGASAN NADI CERGAS BERHAD",
+        "ticker": "0206"
+    },
+    {
+        "company": "GAMUDA BERHAD",
+        "ticker": "5398"
+    },
+    {
+        "company": "GAS MALAYSIA BERHAD",
+        "ticker": "5209"
+    },
+    {
+        "company": "GDB HOLDINGS BERHAD",
+        "ticker": "0198"
+    },
+    {
+        "company": "GDEX BERHAD",
+        "ticker": "0078"
+    },
+    {
+        "company": "GENETEC TECHNOLOGY BERHAD",
+        "ticker": "0104"
+    },
+    {
+        "company": "GENTING BERHAD",
+        "ticker": "3182"
+    },
+    {
+        "company": "GENTING MALAYSIA BERHAD",
+        "ticker": "4715"
+    },
+    {
+        "company": "GENTING PLANTATIONS BERHAD",
+        "ticker": "2291"
+    },
+    {
+        "company": "GEORGE KENT (MALAYSIA) BERHAD",
+        "ticker": "3204"
+    },
+    {
+        "company": "GE-SHEN CORPORATION BERHAD",
+        "ticker": "7197"
+    },
+    {
+        "company": "GFM SERVICES BERHAD",
+        "ticker": "0039"
+    },
+    {
+        "company": "GHL SYSTEMS BERHAD",
+        "ticker": "0021"
+    },
+    {
+        "company": "GIIB HOLDINGS BERHAD",
+        "ticker": "7192"
+    },
+    {
+        "company": "GLOBAL ORIENTAL BERHAD",
+        "ticker": "1147"
+    },
+    {
+        "company": "GLOBALTEC FORMATION BERHAD",
+        "ticker": "5220"
+    },
+    {
+        "company": "GLOBETRONICS TECHNOLOGY BERHAD",
+        "ticker": "7022"
+    },
+    {
+        "company": "GLOMAC BERHAD",
+        "ticker": "5020"
+    },
+    {
+        "company": "GLOSTREXT BERHAD",
+        "ticker": "0284"
+    },
+    {
+        "company": "GO HUB CAPITAL BERHAD",
+        "ticker": "0311"
+    },
+    {
+        "company": "GO INNOVATE ASIA BERHAD",
+        "ticker": "03028"
+    },
+    {
+        "company": "GOLDEN LAND BERHAD",
+        "ticker": "7382"
+    },
+    {
+        "company": "GOLDEN PHAROS BERHAD",
+        "ticker": "5649"
+    },
+    {
+        "company": "GOPENG BERHAD",
+        "ticker": "2135"
+    },
+    {
+        "company": "GPP RESOURCES BERHAD",
+        "ticker": "03029"
+    },
+    {
+        "company": "GRAND CENTRAL ENTERPRISES BHD",
+        "ticker": "5592"
+    },
+    {
+        "company": "GREATECH TECHNOLOGY BERHAD",
+        "ticker": "0208"
+    },
+    {
+        "company": "GREATER BAY HOLDINGS BERHAD",
+        "ticker": "9148"
+    },
+    {
+        "company": "GREEN OCEAN CORPORATION BERHAD",
+        "ticker": "0074"
+    },
+    {
+        "company": "GREEN PACKET BERHAD",
+        "ticker": "0082"
+    },
+    {
+        "company": "GREENYIELD BERHAD",
+        "ticker": "0136"
+    },
+    {
+        "company": "GROMUTUAL BERHAD",
+        "ticker": "9962"
+    },
+    {
+        "company": "GUAN CHONG BERHAD",
+        "ticker": "5102"
+    },
+    {
+        "company": "GUH HOLDINGS BERHAD",
+        "ticker": "3247"
+    },
+    {
+        "company": "GUOCOLAND (MALAYSIA) BERHAD",
+        "ticker": "1503"
+    },
+    {
+        "company": "HAILY GROUP BERHAD",
+        "ticker": "0237"
+    },
+    {
+        "company": "HANDAL ENERGY BERHAD",
+        "ticker": "7253"
+    },
+    {
+        "company": "HAP SENG CONSOLIDATED BERHAD",
+        "ticker": "3034"
+    },
+    {
+        "company": "HAP SENG PLANTATIONS HOLDINGS BERHAD",
+        "ticker": "5138"
+    },
+    {
+        "company": "HARBOUR-LINK GROUP BERHAD",
+        "ticker": "2062"
+    },
+    {
+        "company": "HARN LEN CORPORATION BHD",
+        "ticker": "7501"
+    },
+    {
+        "company": "HARRISONS HOLDINGS (MALAYSIA) BERHAD",
+        "ticker": "5008"
+    },
+    {
+        "company": "HARTALEGA HOLDINGS BERHAD",
+        "ticker": "5168"
+    },
+    {
+        "company": "HARVEST MIRACLE CAPITAL BERHAD",
+        "ticker": "0060"
+    },
+    {
+        "company": "HB GLOBAL LIMITED",
+        "ticker": "5187"
+    },
+    {
+        "company": "HCK CAPITAL GROUP BERHAD",
+        "ticker": "7105"
+    },
+    {
+        "company": "HE GROUP BERHAD",
+        "ticker": "0296"
+    },
+    {
+        "company": "HEINEKEN MALAYSIA BERHAD",
+        "ticker": "3255"
+    },
+    {
+        "company": "HEITECH PADU BERHAD",
+        "ticker": "5028"
+    },
+    {
+        "company": "HEKTAR REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5121"
+    },
+    {
+        "company": "HENGYUAN REFINING COMPANY BERHAD",
+        "ticker": "4324"
+    },
+    {
+        "company": "HEVEABOARD BERHAD",
+        "ticker": "5095"
+    },
+    {
+        "company": "HEXTAR CAPITAL BERHAD",
+        "ticker": "0035"
+    },
+    {
+        "company": "HEXTAR GLOBAL BERHAD",
+        "ticker": "5151"
+    },
+    {
+        "company": "HEXTAR HEALTHCARE BERHAD",
+        "ticker": "7803"
+    },
+    {
+        "company": "HEXTAR INDUSTRIES BERHAD",
+        "ticker": "0161"
+    },
+    {
+        "company": "HEXTAR RETAIL BERHAD",
+        "ticker": "7202"
+    },
+    {
+        "company": "HEXTAR TECHNOLOGIES SOLUTIONS BERHAD",
+        "ticker": "5136"
+    },
+    {
+        "company": "HEXZA CORPORATION BERHAD",
+        "ticker": "3298"
+    },
+    {
+        "company": "HHRG BERHAD",
+        "ticker": "0175"
+    },
+    {
+        "company": "HIAP HUAT HOLDINGS BERHAD",
+        "ticker": "0160"
+    },
+    {
+        "company": "HIAP TECK VENTURE BERHAD",
+        "ticker": "5072"
+    },
+    {
+        "company": "HIBISCUS PETROLEUM BERHAD",
+        "ticker": "5199"
+    },
+    {
+        "company": "HIL INDUSTRIES BERHAD",
+        "ticker": "8443"
+    },
+    {
+        "company": "HLT GLOBAL BERHAD",
+        "ticker": "0188"
+    },
+    {
+        "company": "HO HUP CONSTRUCTION COMPANY BHD",
+        "ticker": "5169"
+    },
+    {
+        "company": "HO WAH GENTING BERHAD",
+        "ticker": "9601"
+    },
+    {
+        "company": "HOMERITZ CORPORATION BERHAD",
+        "ticker": "5160"
+    },
+    {
+        "company": "HONG LEONG BANK BERHAD",
+        "ticker": "5819"
+    },
+    {
+        "company": "HONG LEONG CAPITAL BERHAD",
+        "ticker": "5274"
+    },
+    {
+        "company": "HONG LEONG FINANCIAL GROUP BERHAD",
+        "ticker": "1082"
+    },
+    {
+        "company": "HONG LEONG INDUSTRIES BERHAD",
+        "ticker": "3301"
+    },
+    {
+        "company": "HONG SENG CONSOLIDATED BERHAD",
+        "ticker": "0041"
+    },
+    {
+        "company": "HPMT HOLDINGS BERHAD",
+        "ticker": "5291"
+    },
+    {
+        "company": "HPP HOLDINGS BERHAD",
+        "ticker": "0228"
+    },
+    {
+        "company": "HSS ENGINEERS BERHAD",
+        "ticker": "0185"
+    },
+    {
+        "company": "HUA YANG BERHAD",
+        "ticker": "5062"
+    },
+    {
+        "company": "HUBLINE BERHAD",
+        "ticker": "7013"
+    },
+    {
+        "company": "HUME CEMENT INDUSTRIES BERHAD",
+        "ticker": "5000"
+    },
+    {
+        "company": "HUP SENG INDUSTRIES BERHAD",
+        "ticker": "5024"
+    },
+    {
+        "company": "HWA TAI INDUSTRIES BERHAD",
+        "ticker": "8478"
+    },
+    {
+        "company": "I-BERHAD",
+        "ticker": "4251"
+    },
+    {
+        "company": "IBRACO BERHAD",
+        "ticker": "5084"
+    },
+    {
+        "company": "ICAPITAL.BIZ BERHAD",
+        "ticker": "5108"
+    },
+    {
+        "company": "ICON OFFSHORE BERHAD",
+        "ticker": "5255"
+    },
+    {
+        "company": "ICONIC WORLDWIDE BERHAD",
+        "ticker": "9113"
+    },
+    {
+        "company": "ICT ZONE ASIA BERHAD",
+        "ticker": "03038"
+    },
+    {
+        "company": "IDB TECHNOLOGIES BERHAD",
+        "ticker": "03030"
+    },
+    {
+        "company": "IDEAL CAPITAL BERHAD",
+        "ticker": "9687"
+    },
+    {
+        "company": "IFCA MSC BERHAD",
+        "ticker": "0023"
+    },
+    {
+        "company": "IGB BERHAD",
+        "ticker": "5606"
+    },
+    {
+        "company": "IGB COMMERCIAL REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5299"
+    },
+    {
+        "company": "IGB REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5227"
+    },
+    {
+        "company": "IHH HEALTHCARE BERHAD",
+        "ticker": "5225"
+    },
+    {
+        "company": "IHSAN SUKUK-ETBS 4.60%0824",
+        "ticker": "0401GA"
+    },
+    {
+        "company": "IJM CORPORATION BERHAD",
+        "ticker": "3336"
+    },
+    {
+        "company": "ILB GROUP BERHAD",
+        "ticker": "5614"
+    },
+    {
+        "company": "IMASPRO CORPORATION BERHAD",
+        "ticker": "7222"
+    },
+    {
+        "company": "INARI AMERTRON BERHAD",
+        "ticker": "0166"
+    },
+    {
+        "company": "INCH KENNETH KAJANG RUBBER PUBLIC LTD CO",
+        "ticker": "2607"
+    },
+    {
+        "company": "INDUSTRONICS BERHAD",
+        "ticker": "9393"
+    },
+    {
+        "company": "INFOLINE TEC GROUP BERHAD",
+        "ticker": "0253"
+    },
+    {
+        "company": "INFOMINA BERHAD",
+        "ticker": "0265"
+    },
+    {
+        "company": "INFRAHARTA HOLDINGS BERHAD",
+        "ticker": "7240"
+    },
+    {
+        "company": "INGENIEUR GUDANG BERHAD",
+        "ticker": "5178"
+    },
+    {
+        "company": "INNATURE BERHAD",
+        "ticker": "5295"
+    },
+    {
+        "company": "INNITY CORPORATION BERHAD",
+        "ticker": "0147"
+    },
+    {
+        "company": "INNOPRISE PLANTATIONS BERHAD",
+        "ticker": "6262"
+    },
+    {
+        "company": "INSAS BERHAD",
+        "ticker": "3379"
+    },
+    {
+        "company": "INTA BINA GROUP BERHAD",
+        "ticker": "0192"
+    },
+    {
+        "company": "IOI CORPORATION BERHAD",
+        "ticker": "1961"
+    },
+    {
+        "company": "IOI PROPERTIES GROUP BERHAD",
+        "ticker": "5249"
+    },
+    {
+        "company": "IQ GROUP HOLDINGS BERHAD",
+        "ticker": "5107"
+    },
+    {
+        "company": "IQZAN HOLDING BERHAD",
+        "ticker": "7183"
+    },
+    {
+        "company": "IREKA CORPORATION BERHAD",
+        "ticker": "8834"
+    },
+    {
+        "company": "IRIS CORPORATION BERHAD",
+        "ticker": "0010"
+    },
+    {
+        "company": "ISKANDAR WATERFRONT CITY BERHAD",
+        "ticker": "1589"
+    },
+    {
+        "company": "ITMAX SYSTEM BERHAD",
+        "ticker": "5309"
+    },
+    {
+        "company": "IVORY PROPERTIES GROUP BERHAD",
+        "ticker": "5175"
+    },
+    {
+        "company": "JADI IMAGING HOLDINGS BERHAD",
+        "ticker": "7223"
+    },
+    {
+        "company": "JAG BERHAD",
+        "ticker": "0024"
+    },
+    {
+        "company": "JAKS RESOURCES BERHAD",
+        "ticker": "4723"
+    },
+    {
+        "company": "JASA KITA BERHAD",
+        "ticker": "8648"
+    },
+    {
+        "company": "JATI TINGGI GROUP BERHAD",
+        "ticker": "0292"
+    },
+    {
+        "company": "JAYA TIASA HOLDINGS BHD",
+        "ticker": "4383"
+    },
+    {
+        "company": "JAYCORP BERHAD",
+        "ticker": "7152"
+    },
+    {
+        "company": "JCBNEXT BERHAD",
+        "ticker": "0058"
+    },
+    {
+        "company": "JCY INTERNATIONAL BERHAD",
+        "ticker": "5161"
+    },
+    {
+        "company": "JENTAYU SUSTAINABLES BERHAD",
+        "ticker": "5673"
+    },
+    {
+        "company": "JF TECHNOLOGY BERHAD",
+        "ticker": "0146"
+    },
+    {
+        "company": "JHM CONSOLIDATION BERHAD",
+        "ticker": "0127"
+    },
+    {
+        "company": "JIANKUN INTERNATIONAL BERHAD",
+        "ticker": "8923"
+    },
+    {
+        "company": "JISHAN BERHAD",
+        "ticker": "03040"
+    },
+    {
+        "company": "JKG LAND BERHAD",
+        "ticker": "6769"
+    },
+    {
+        "company": "JOE HOLDING BERHAD",
+        "ticker": "7096"
+    },
+    {
+        "company": "JOHAN HOLDINGS BERHAD",
+        "ticker": "3441"
+    },
+    {
+        "company": "JOHOR PLANTATIONS GROUP BERHAD",
+        "ticker": "5323"
+    },
+    {
+        "company": "K. SENG SENG CORPORATION BERHAD",
+        "ticker": "5192"
+    },
+    {
+        "company": "KAMDAR GROUP (M) BERHAD",
+        "ticker": "8672"
+    },
+    {
+        "company": "KANGER INTERNATIONAL BERHAD",
+        "ticker": "0170"
+    },
+    {
+        "company": "KAREX BERHAD",
+        "ticker": "5247"
+    },
+    {
+        "company": "KARYON INDUSTRIES BERHAD",
+        "ticker": "0054"
+    },
+    {
+        "company": "KAWAN FOOD BERHAD",
+        "ticker": "7216"
+    },
+    {
+        "company": "KAWAN RENERGY BERHAD",
+        "ticker": "0307"
+    },
+    {
+        "company": "KECK SENG (MALAYSIA) BERHAD",
+        "ticker": "3476"
+    },
+    {
+        "company": "KEIN HING INTERNATIONAL BERHAD",
+        "ticker": "7199"
+    },
+    {
+        "company": "KELINGTON GROUP BERHAD",
+        "ticker": "0151"
+    },
+    {
+        "company": "KEN HOLDINGS BERHAD",
+        "ticker": "7323"
+    },
+    {
+        "company": "KENANGA INVESTMENT BANK BERHAD",
+        "ticker": "6483"
+    },
+    {
+        "company": "KENANGA KLCI DAILY (-1X) INVERSE ETF",
+        "ticker": "0835EA"
+    },
+    {
+        "company": "KENANGA KLCI DAILY 2X LEVERAGED ETF",
+        "ticker": "0834EA"
+    },
+    {
+        "company": "KERJAYA PROSPEK GROUP BERHAD",
+        "ticker": "7161"
+    },
+    {
+        "company": "KERJAYA PROSPEK PROPERTY BERHAD",
+        "ticker": "7077"
+    },
+    {
+        "company": "KESM INDUSTRIES BERHAD",
+        "ticker": "9334"
+    },
+    {
+        "company": "KEY ALLIANCE GROUP BERHAD",
+        "ticker": "0036"
+    },
+    {
+        "company": "KEY ASIC BERHAD",
+        "ticker": "0143"
+    },
+    {
+        "company": "KEYFIELD INTERNATIONAL BERHAD",
+        "ticker": "5321"
+    },
+    {
+        "company": "KGW GROUP BERHAD",
+        "ticker": "0282"
+    },
+    {
+        "company": "KHEE SAN BERHAD",
+        "ticker": "6203"
+    },
+    {
+        "company": "KHIND HOLDINGS BERHAD",
+        "ticker": "7062"
+    },
+    {
+        "company": "KIA LIM BERHAD",
+        "ticker": "6211"
+    },
+    {
+        "company": "KIM HIN INDUSTRY BERHAD",
+        "ticker": "5371"
+    },
+    {
+        "company": "KIM HIN JOO (MALAYSIA) BERHAD",
+        "ticker": "0210"
+    },
+    {
+        "company": "KIM LOONG RESOURCES BERHAD",
+        "ticker": "5027"
+    },
+    {
+        "company": "KIM TECK CHEONG CONSOLIDATED BERHAD",
+        "ticker": "0180"
+    },
+    {
+        "company": "KIMLUN CORPORATION BERHAD",
+        "ticker": "5171"
+    },
+    {
+        "company": "KINERGY ADVANCEMENT BERHAD",
+        "ticker": "0193"
+    },
+    {
+        "company": "KIP REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5280"
+    },
+    {
+        "company": "KJTS GROUP BERHAD",
+        "ticker": "0293"
+    },
+    {
+        "company": "KKB ENGINEERING BERHAD",
+        "ticker": "9466"
+    },
+    {
+        "company": "KLCC PROPERTY HOLDINGS BERHAD",
+        "ticker": "5235SS"
+    },
+    {
+        "company": "KLCC REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5235SS"
+    },
+    {
+        "company": "KLUANG RUBBER COMPANY (MALAYA) BERHAD",
+        "ticker": "2453"
+    },
+    {
+        "company": "KNM GROUP BERHAD",
+        "ticker": "7164"
+    },
+    {
+        "company": "KNUSFORD BERHAD",
+        "ticker": "5035"
+    },
+    {
+        "company": "KOBAY TECHNOLOGY BERHAD",
+        "ticker": "6971"
+    },
+    {
+        "company": "KOMARKCORP BERHAD",
+        "ticker": "7017"
+    },
+    {
+        "company": "K-ONE TECHNOLOGY BERHAD",
+        "ticker": "0111"
+    },
+    {
+        "company": "KOSSAN RUBBER INDUSTRIES BERHAD",
+        "ticker": "7153"
+    },
+    {
+        "company": "KOTRA INDUSTRIES BERHAD",
+        "ticker": "0002"
+    },
+    {
+        "company": "KPJ HEALTHCARE BERHAD",
+        "ticker": "5878"
+    },
+    {
+        "company": "KPS CONSORTIUM BERHAD",
+        "ticker": "9121"
+    },
+    {
+        "company": "KRETAM HOLDINGS BERHAD",
+        "ticker": "1996"
+    },
+    {
+        "company": "KRONOLOGI ASIA BERHAD",
+        "ticker": "0176"
+    },
+    {
+        "company": "KSL HOLDINGS BERHAD",
+        "ticker": "5038"
+    },
+    {
+        "company": "KTI LANDMARK BERHAD",
+        "ticker": "0308"
+    },
+    {
+        "company": "KUALA LUMPUR KEPONG BERHAD",
+        "ticker": "2445"
+    },
+    {
+        "company": "KUB MALAYSIA BERHAD",
+        "ticker": "6874"
+    },
+    {
+        "company": "KUCHAI DEVELOPMENT BERHAD",
+        "ticker": "2186"
+    },
+    {
+        "company": "KUCINGKO BERHAD",
+        "ticker": "0315"
+    },
+    {
+        "company": "KUMPULAN FIMA BERHAD",
+        "ticker": "6491"
+    },
+    {
+        "company": "KUMPULAN H & L HIGH-TECH BERHAD",
+        "ticker": "7033"
+    },
+    {
+        "company": "KUMPULAN JETSON BERHAD",
+        "ticker": "9083"
+    },
+    {
+        "company": "KUMPULAN KITACON BERHAD",
+        "ticker": "5310"
+    },
+    {
+        "company": "KUMPULAN PERANGSANG SELANGOR BERHAD",
+        "ticker": "5843"
+    },
+    {
+        "company": "KYM HOLDINGS BERHAD",
+        "ticker": "8362"
+    },
+    {
+        "company": "L&P GLOBAL BERHAD",
+        "ticker": "0268"
+    },
+    {
+        "company": "LAGENDA PROPERTIES BERHAD",
+        "ticker": "7179"
+    },
+    {
+        "company": "LAMBO GROUP BERHAD",
+        "ticker": "0018"
+    },
+    {
+        "company": "LAND & GENERAL BERHAD",
+        "ticker": "3174"
+    },
+    {
+        "company": "LANDMARKS BERHAD",
+        "ticker": "1643"
+    },
+    {
+        "company": "LAY HONG BERHAD",
+        "ticker": "9385"
+    },
+    {
+        "company": "LB ALUMINIUM BERHAD",
+        "ticker": "9326"
+    },
+    {
+        "company": "LBI CAPITAL BERHAD",
+        "ticker": "8494"
+    },
+    {
+        "company": "LBS BINA GROUP BERHAD",
+        "ticker": "5789"
+    },
+    {
+        "company": "LEADER STEEL HOLDINGS BERHAD",
+        "ticker": "9881"
+    },
+    {
+        "company": "LEBTECH BERHAD",
+        "ticker": "9628"
+    },
+    {
+        "company": "LEE SWEE KIAT GROUP BERHAD",
+        "ticker": "8079"
+    },
+    {
+        "company": "LEFORM BERHAD",
+        "ticker": "0266"
+    },
+    {
+        "company": "LEON FUAT BERHAD",
+        "ticker": "5232"
+    },
+    {
+        "company": "LEONG HUP INTERNATIONAL BERHAD",
+        "ticker": "6633"
+    },
+    {
+        "company": "LFE CORPORATION BERHAD",
+        "ticker": "7170"
+    },
+    {
+        "company": "LGMS BERHAD",
+        "ticker": "0249"
+    },
+    {
+        "company": "LIEN HOE CORPORATION BERHAD",
+        "ticker": "3573"
+    },
+    {
+        "company": "LII HEN INDUSTRIES BHD.",
+        "ticker": "7089"
+    },
+    {
+        "company": "LIM SEONG HAI CAPITAL BERHAD",
+        "ticker": "03047"
+    },
+    {
+        "company": "LION INDUSTRIES CORPORATION BERHAD",
+        "ticker": "4235"
+    },
+    {
+        "company": "LION POSIM BERHAD",
+        "ticker": "8486"
+    },
+    {
+        "company": "LKL INTERNATIONAL BERHAD",
+        "ticker": "0182"
+    },
+    {
+        "company": "LOTTE CHEMICAL TITAN HOLDING BERHAD",
+        "ticker": "5284"
+    },
+    {
+        "company": "LOTUS KFM BERHAD",
+        "ticker": "8303"
+    },
+    {
+        "company": "LPI CAPITAL BHD",
+        "ticker": "8621"
+    },
+    {
+        "company": "LTKM BERHAD",
+        "ticker": "7085"
+    },
+    {
+        "company": "LUSTER INDUSTRIES BHD.",
+        "ticker": "5068"
+    },
+    {
+        "company": "LUXCHEM CORPORATION BERHAD",
+        "ticker": "5143"
+    },
+    {
+        "company": "LYC HEALTHCARE BERHAD",
+        "ticker": "0075"
+    },
+    {
+        "company": "LYSAGHT GALVANIZED STEEL BERHAD",
+        "ticker": "9199"
+    },
+    {
+        "company": "M & A EQUITY HOLDINGS BERHAD",
+        "ticker": "7082"
+    },
+    {
+        "company": "M N C WIRELESS BERHAD",
+        "ticker": "0103"
+    },
+    {
+        "company": "MAA GROUP BERHAD",
+        "ticker": "1198"
+    },
+    {
+        "company": "MAG HOLDINGS BERHAD",
+        "ticker": "0095"
+    },
+    {
+        "company": "MAGMA GROUP BERHAD",
+        "ticker": "7243"
+    },
+    {
+        "company": "MAGNA PRIMA BERHAD",
+        "ticker": "7617"
+    },
+    {
+        "company": "MAGNI-TECH INDUSTRIES BERHAD",
+        "ticker": "7087"
+    },
+    {
+        "company": "MAGNUM BERHAD",
+        "ticker": "3859"
+    },
+    {
+        "company": "MAH SING GROUP BERHAD",
+        "ticker": "8583"
+    },
+    {
+        "company": "MAJUPERAK HOLDINGS BERHAD",
+        "ticker": "8141"
+    },
+    {
+        "company": "MALAKOFF CORPORATION BERHAD",
+        "ticker": "5264"
+    },
+    {
+        "company": "MALAYAN BANKING BERHAD",
+        "ticker": "1155"
+    },
+    {
+        "company": "MALAYAN CEMENT BERHAD",
+        "ticker": "3794"
+    },
+    {
+        "company": "MALAYAN FLOUR MILLS BERHAD",
+        "ticker": "3662"
+    },
+    {
+        "company": "MALAYAN UNITED INDUSTRIES BERHAD",
+        "ticker": "3891"
+    },
+    {
+        "company": "MALAYSIA AIRPORTS HOLDINGS BERHAD",
+        "ticker": "5014"
+    },
+    {
+        "company": "MALAYSIA MARINE AND HEAVY ENGINEERING HOLDINGS BERHAD",
+        "ticker": "5186"
+    },
+    {
+        "company": "MALAYSIA SMELTING CORPORATION BERHAD",
+        "ticker": "5916"
+    },
+    {
+        "company": "MALAYSIA STEEL WORKS (KL) BHD",
+        "ticker": "5098"
+    },
+    {
+        "company": "MALAYSIAN GENOMICS RESOURCE CENTRE BERHAD",
+        "ticker": "0155"
+    },
+    {
+        "company": "MALAYSIAN PACIFIC INDUSTRIES BERHAD",
+        "ticker": "3867"
+    },
+    {
+        "company": "MALAYSIAN RESOURCES CORPORATION BERHAD",
+        "ticker": "1651"
+    },
+    {
+        "company": "MALPAC HOLDINGS BERHAD",
+        "ticker": "4936"
+    },
+    {
+        "company": "MALTON BERHAD",
+        "ticker": "6181"
+    },
+    {
+        "company": "MANAGEPAY SYSTEMS BERHAD",
+        "ticker": "0156"
+    },
+    {
+        "company": "MANFORCE GROUP BERHAD",
+        "ticker": "03015"
+    },
+    {
+        "company": "MANULIFE HOLDINGS BERHAD",
+        "ticker": "1058"
+    },
+    {
+        "company": "MARCO HOLDINGS BERHAD",
+        "ticker": "3514"
+    },
+    {
+        "company": "MARINE & GENERAL BERHAD",
+        "ticker": "5078"
+    },
+    {
+        "company": "MASTER TEC GROUP BERHAD",
+        "ticker": "0295"
+    },
+    {
+        "company": "MASTER-PACK GROUP BERHAD",
+        "ticker": "7029"
+    },
+    {
+        "company": "MATANG BERHAD",
+        "ticker": "0189"
+    },
+    {
+        "company": "MATRIX CONCEPTS HOLDINGS BERHAD",
+        "ticker": "5236"
+    },
+    {
+        "company": "MATRIX PARKING SOLUTION HOLDINGS BERHAD",
+        "ticker": "03019"
+    },
+    {
+        "company": "MAXIM GLOBAL BERHAD",
+        "ticker": "4022"
+    },
+    {
+        "company": "MAXIS BERHAD",
+        "ticker": "6012"
+    },
+    {
+        "company": "MAXLAND BERHAD",
+        "ticker": "7123"
+    },
+    {
+        "company": "MAYBULK BERHAD",
+        "ticker": "5077"
+    },
+    {
+        "company": "MAYU GLOBAL GROUP BERHAD",
+        "ticker": "7099"
+    },
+    {
+        "company": "MBM RESOURCES BHD",
+        "ticker": "5983"
+    },
+    {
+        "company": "MBSB BERHAD",
+        "ticker": "1171"
+    },
+    {
+        "company": "MCE HOLDINGS BERHAD",
+        "ticker": "7004"
+    },
+    {
+        "company": "MCLEAN TECHNOLOGIES BERHAD",
+        "ticker": "0167"
+    },
+    {
+        "company": "MCOM HOLDINGS BERHAD",
+        "ticker": "03022"
+    },
+    {
+        "company": "MEDIA CHINESE INTERNATIONAL LIMITED",
+        "ticker": "5090"
+    },
+    {
+        "company": "MEDIA PRIMA BERHAD",
+        "ticker": "4502"
+    },
+    {
+        "company": "MEGA FIRST CORPORATION BERHAD",
+        "ticker": "3069"
+    },
+    {
+        "company": "MELATI EHSAN HOLDINGS BERHAD",
+        "ticker": "5129"
+    },
+    {
+        "company": "MELEWAR INDUSTRIAL GROUP BERHAD",
+        "ticker": "3778"
+    },
+    {
+        "company": "MENANG CORPORATION (M) BERHAD",
+        "ticker": "1694"
+    },
+    {
+        "company": "MENTIGA CORPORATION BERHAD",
+        "ticker": "5223"
+    },
+    {
+        "company": "MERCURY INDUSTRIES BERHAD",
+        "ticker": "8192"
+    },
+    {
+        "company": "MERCURY SECURITIES GROUP BERHAD",
+        "ticker": "0285"
+    },
+    {
+        "company": "MERIDIAN BERHAD",
+        "ticker": "5040"
+    },
+    {
+        "company": "MESB BERHAD",
+        "ticker": "7234"
+    },
+    {
+        "company": "MESINIAGA BERHAD",
+        "ticker": "5011"
+    },
+    {
+        "company": "MESTRON HOLDINGS BERHAD",
+        "ticker": "0207"
+    },
+    {
+        "company": "META BRIGHT GROUP BERHAD",
+        "ticker": "2097"
+    },
+    {
+        "company": "METRO HEALTHCARE BERHAD",
+        "ticker": "03005"
+    },
+    {
+        "company": "METROD HOLDINGS BERHAD",
+        "ticker": "6149"
+    },
+    {
+        "company": "METRONIC GLOBAL BERHAD",
+        "ticker": "0043"
+    },
+    {
+        "company": "MGB BERHAD",
+        "ticker": "7595"
+    },
+    {
+        "company": "MHC PLANTATIONS BHD",
+        "ticker": "5026"
+    },
+    {
+        "company": "MI TECHNOVATION BERHAD",
+        "ticker": "5286"
+    },
+    {
+        "company": "MICROLINK SOLUTIONS BERHAD",
+        "ticker": "0126"
+    },
+    {
+        "company": "MIECO CHIPBOARD BERHAD",
+        "ticker": "5001"
+    },
+    {
+        "company": "MIKRO MSC BERHAD",
+        "ticker": "0112"
+    },
+    {
+        "company": "MILUX CORPORATION BERHAD",
+        "ticker": "7935"
+    },
+    {
+        "company": "MINETECH RESOURCES BERHAD",
+        "ticker": "7219"
+    },
+    {
+        "company": "MINHO (M) BERHAD",
+        "ticker": "5576"
+    },
+    {
+        "company": "MINOX INTERNATIONAL GROUP BERHAD",
+        "ticker": "0288"
+    },
+    {
+        "company": "MISC BERHAD",
+        "ticker": "3816"
+    },
+    {
+        "company": "MITRAJAYA HOLDINGS BERHAD",
+        "ticker": "9571"
+    },
+    {
+        "company": "MK LAND HOLDINGS BERHAD",
+        "ticker": "8893"
+    },
+    {
+        "company": "MKH BERHAD",
+        "ticker": "6114"
+    },
+    {
+        "company": "MKH OIL PALM (EAST KALIMANTAN) BERHAD",
+        "ticker": "5319"
+    },
+    {
+        "company": "MLABS SYSTEMS BERHAD",
+        "ticker": "0085"
+    },
+    {
+        "company": "MMAG HOLDINGS BERHAD",
+        "ticker": "0034"
+    },
+    {
+        "company": "MMIS BERHAD",
+        "ticker": "03027"
+    },
+    {
+        "company": "MMM GROUP BERHAD",
+        "ticker": "0159"
+    },
+    {
+        "company": "MMS VENTURES BERHAD",
+        "ticker": "0113"
+    },
+    {
+        "company": "MN HOLDINGS BERHAD",
+        "ticker": "0245"
+    },
+    {
+        "company": "MNRB HOLDINGS BERHAD",
+        "ticker": "6459"
+    },
+    {
+        "company": "MOBILIA HOLDINGS BERHAD",
+        "ticker": "0229"
+    },
+    {
+        "company": "MPHB CAPITAL BERHAD",
+        "ticker": "5237"
+    },
+    {
+        "company": "MPIRE GLOBAL BERHAD",
+        "ticker": "7943"
+    },
+    {
+        "company": "MQ TECHNOLOGY BERHAD",
+        "ticker": "0070"
+    },
+    {
+        "company": "MR D.I.Y. GROUP (M) BERHAD",
+        "ticker": "5296"
+    },
+    {
+        "company": "MSM MALAYSIA HOLDINGS BERHAD",
+        "ticker": "5202"
+    },
+    {
+        "company": "MST GOLF GROUP BERHAD",
+        "ticker": "5316"
+    },
+    {
+        "company": "MTAG GROUP BERHAD",
+        "ticker": "0213"
+    },
+    {
+        "company": "MTOUCHE TECHNOLOGY BERHAD",
+        "ticker": "0092"
+    },
+    {
+        "company": "MUAR BAN LEE GROUP BERHAD",
+        "ticker": "5152"
+    },
+    {
+        "company": "MUDA HOLDINGS BERHAD",
+        "ticker": "3883"
+    },
+    {
+        "company": "MUDAJAYA GROUP BERHAD",
+        "ticker": "5085"
+    },
+    {
+        "company": "MUHIBBAH ENGINEERING (M) BHD",
+        "ticker": "5703"
+    },
+    {
+        "company": "MUI PROPERTIES BERHAD",
+        "ticker": "3913"
+    },
+    {
+        "company": "MULPHA INTERNATIONAL BERHAD",
+        "ticker": "3905"
+    },
+    {
+        "company": "MULTI-USAGE HOLDINGS BERHAD",
+        "ticker": "9539"
+    },
+    {
+        "company": "MY E.G. SERVICES BERHAD",
+        "ticker": "0138"
+    },
+    {
+        "company": "MYCRON STEEL BERHAD",
+        "ticker": "5087"
+    },
+    {
+        "company": "MYMBN BERHAD",
+        "ticker": "0280"
+    },
+    {
+        "company": "MYNEWS HOLDINGS BERHAD",
+        "ticker": "5275"
+    },
+    {
+        "company": "MYTECH GROUP BERHAD",
+        "ticker": "7692"
+    },
+    {
+        "company": "N2N CONNECT BERHAD",
+        "ticker": "0108"
+    },
+    {
+        "company": "NAIM HOLDINGS BERHAD",
+        "ticker": "5073"
+    },
+    {
+        "company": "NATIONGATE HOLDINGS BERHAD",
+        "ticker": "0270"
+    },
+    {
+        "company": "NCT ALLIANCE BERHAD",
+        "ticker": "0056"
+    },
+    {
+        "company": "NEGRI SEMBILAN OIL PALMS BERHAD",
+        "ticker": "2038"
+    },
+    {
+        "company": "NESTCON BERHAD",
+        "ticker": "0235"
+    },
+    {
+        "company": "NESTLE (MALAYSIA) BERHAD",
+        "ticker": "4707"
+    },
+    {
+        "company": "NETX HOLDINGS BERHAD",
+        "ticker": "0020"
+    },
+    {
+        "company": "NEW HOONG FATT HOLDINGS BERHAD",
+        "ticker": "7060"
+    },
+    {
+        "company": "NEXGRAM HOLDINGS BERHAD",
+        "ticker": "0096"
+    },
+    {
+        "company": "NEXTGREEN GLOBAL BERHAD",
+        "ticker": "7241"
+    },
+    {
+        "company": "NI HSIN GROUP BERHAD",
+        "ticker": "7215"
+    },
+    {
+        "company": "NICHE CAPITAL EMAS HOLDINGS BERHAD",
+        "ticker": "7139"
+    },
+    {
+        "company": "NOTION VTEC BERHAD",
+        "ticker": "0083"
+    },
+    {
+        "company": "NOVA MSC BERHAD",
+        "ticker": "0026"
+    },
+    {
+        "company": "NOVA PHARMA SOLUTIONS BERHAD",
+        "ticker": "03006"
+    },
+    {
+        "company": "NOVA WELLNESS GROUP BERHAD",
+        "ticker": "0201"
+    },
+    {
+        "company": "NOVELPLUS TECHNOLOGY BERHAD",
+        "ticker": "03045"
+    },
+    {
+        "company": "NPC RESOURCES BERHAD",
+        "ticker": "5047"
+    },
+    {
+        "company": "NTPM HOLDINGS BERHAD",
+        "ticker": "5066"
+    },
+    {
+        "company": "NYLEX (MALAYSIA) BERHAD",
+        "ticker": "4944"
+    },
+    {
+        "company": "OCB BERHAD",
+        "ticker": "5533"
+    },
+    {
+        "company": "OCEAN FRESH BERHAD",
+        "ticker": "0312"
+    },
+    {
+        "company": "OCEAN VANTAGE HOLDINGS BERHAD",
+        "ticker": "0220"
+    },
+    {
+        "company": "OCEANCASH PACIFIC BERHAD",
+        "ticker": "0049"
+    },
+    {
+        "company": "OCK GROUP BERHAD",
+        "ticker": "0172"
+    },
+    {
+        "company": "OCR GROUP BERHAD",
+        "ticker": "7071"
+    },
+    {
+        "company": "OKA CORPORATION BHD",
+        "ticker": "7140"
+    },
+    {
+        "company": "OLYMPIA INDUSTRIES BERHAD",
+        "ticker": "3018"
+    },
+    {
+        "company": "OM HOLDINGS LIMITED",
+        "ticker": "5298"
+    },
+    {
+        "company": "OMESTI BERHAD",
+        "ticker": "9008"
+    },
+    {
+        "company": "ONE GLOVE GROUP BERHAD",
+        "ticker": "5079"
+    },
+    {
+        "company": "ONETECH SOLUTIONS HOLDINGS BERHAD",
+        "ticker": "03041"
+    },
+    {
+        "company": "ONLY WORLD GROUP HOLDINGS BERHAD",
+        "ticker": "5260"
+    },
+    {
+        "company": "OPENSYS (M) BERHAD",
+        "ticker": "0040"
+    },
+    {
+        "company": "OPPSTAR BERHAD",
+        "ticker": "0275"
+    },
+    {
+        "company": "OPTIMAX HOLDINGS BERHAD",
+        "ticker": "0222"
+    },
+    {
+        "company": "ORGABIO HOLDINGS BERHAD",
+        "ticker": "0252"
+    },
+    {
+        "company": "ORIENTAL FOOD INDUSTRIES HOLDINGS BERHAD",
+        "ticker": "7107"
+    },
+    {
+        "company": "ORIENTAL HOLDINGS BERHAD",
+        "ticker": "4006"
+    },
+    {
+        "company": "ORIENTAL INTEREST BERHAD",
+        "ticker": "5827"
+    },
+    {
+        "company": "ORNAPAPER BERHAD",
+        "ticker": "5065"
+    },
+    {
+        "company": "OSK HOLDINGS BERHAD",
+        "ticker": "5053"
+    },
+    {
+        "company": "OSK VENTURES INTERNATIONAL BERHAD",
+        "ticker": "0053"
+    },
+    {
+        "company": "OVERSEA ENTERPRISE BERHAD",
+        "ticker": "0153"
+    },
+    {
+        "company": "P.A. RESOURCES BERHAD",
+        "ticker": "7225"
+    },
+    {
+        "company": "P.I.E. INDUSTRIAL BERHAD",
+        "ticker": "7095"
+    },
+    {
+        "company": "PACIFIC & ORIENT BERHAD",
+        "ticker": "6009"
+    },
+    {
+        "company": "PADINI HOLDINGS BERHAD",
+        "ticker": "7052"
+    },
+    {
+        "company": "PAN MALAYSIA CORPORATION BERHAD",
+        "ticker": "4081"
+    },
+    {
+        "company": "PAN MALAYSIA HOLDINGS BERHAD",
+        "ticker": "1287"
+    },
+    {
+        "company": "PANASONIC MANUFACTURING MALAYSIA BERHAD",
+        "ticker": "3719"
+    },
+    {
+        "company": "PANDA ECO SYSTEM BERHAD",
+        "ticker": "0290"
+    },
+    {
+        "company": "PANSAR BERHAD",
+        "ticker": "8419"
+    },
+    {
+        "company": "PANTECH GROUP HOLDINGS BERHAD",
+        "ticker": "5125"
+    },
+    {
+        "company": "PAOS HOLDINGS BERHAD",
+        "ticker": "5022"
+    },
+    {
+        "company": "PAPPAJACK BERHAD",
+        "ticker": "0242"
+    },
+    {
+        "company": "PARAGON GLOBE BERHAD",
+        "ticker": "3611"
+    },
+    {
+        "company": "PARAGON UNION BERHAD",
+        "ticker": "9407"
+    },
+    {
+        "company": "PARAMOUNT CORPORATION BERHAD",
+        "ticker": "1724"
+    },
+    {
+        "company": "PARKSON HOLDINGS BERHAD",
+        "ticker": "5657"
+    },
+    {
+        "company": "PARKWOOD HOLDINGS BERHAD",
+        "ticker": "2682"
+    },
+    {
+        "company": "PARLO BERHAD",
+        "ticker": "0022"
+    },
+    {
+        "company": "PASDEC HOLDINGS BERHAD",
+        "ticker": "6912"
+    },
+    {
+        "company": "PASUKHAS GROUP BERHAD",
+        "ticker": "0177"
+    },
+    {
+        "company": "PAVILION REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5212"
+    },
+    {
+        "company": "PBA HOLDINGS BHD",
+        "ticker": "5041"
+    },
+    {
+        "company": "PBS BERHAD",
+        "ticker": "5231"
+    },
+    {
+        "company": "PCCS GROUP BERHAD",
+        "ticker": "6068"
+    },
+    {
+        "company": "PDZ HOLDINGS BHD",
+        "ticker": "6254"
+    },
+    {
+        "company": "PECCA GROUP BERHAD",
+        "ticker": "5271"
+    },
+    {
+        "company": "PEGASUS HEIGHTS BERHAD",
+        "ticker": "4464"
+    },
+    {
+        "company": "PEKAT GROUP BERHAD",
+        "ticker": "0233"
+    },
+    {
+        "company": "PENSONIC HOLDINGS BERHAD",
+        "ticker": "9997"
+    },
+    {
+        "company": "PENTAMASTER CORPORATION BERHAD",
+        "ticker": "7160"
+    },
+    {
+        "company": "PERAK CORPORATION BERHAD",
+        "ticker": "8346"
+    },
+    {
+        "company": "PERAK TRANSIT BERHAD",
+        "ticker": "0186"
+    },
+    {
+        "company": "PERDANA PETROLEUM BERHAD",
+        "ticker": "7108"
+    },
+    {
+        "company": "PERMAJU INDUSTRIES BERHAD",
+        "ticker": "7080"
+    },
+    {
+        "company": "PERTAMA DIGITAL BERHAD",
+        "ticker": "8532"
+    },
+    {
+        "company": "PERUSAHAAN SADUR TIMAH MALAYSIA (PERSTIMA) BHD",
+        "ticker": "5436"
+    },
+    {
+        "company": "PESONA METRO HOLDINGS BERHAD",
+        "ticker": "8311"
+    },
+    {
+        "company": "PESTECH INTERNATIONAL BERHAD",
+        "ticker": "5219"
+    },
+    {
+        "company": "PETERLABS HOLDINGS BERHAD",
+        "ticker": "0171"
+    },
+    {
+        "company": "PETRA ENERGY BERHAD",
+        "ticker": "5133"
+    },
+    {
+        "company": "PETRON MALAYSIA REFINING & MARKETING BHD",
+        "ticker": "3042"
+    },
+    {
+        "company": "PETRONAS CHEMICALS GROUP BERHAD",
+        "ticker": "5183"
+    },
+    {
+        "company": "PETRONAS DAGANGAN BHD",
+        "ticker": "5681"
+    },
+    {
+        "company": "PETRONAS GAS BERHAD",
+        "ticker": "6033"
+    },
+    {
+        "company": "PGF CAPITAL BERHAD",
+        "ticker": "8117"
+    },
+    {
+        "company": "PHARMANIAGA BERHAD",
+        "ticker": "7081"
+    },
+    {
+        "company": "PIMPINAN EHSAN BERHAD",
+        "ticker": "5622"
+    },
+    {
+        "company": "PINEAPPLE RESOURCES BERHAD",
+        "ticker": "0006"
+    },
+    {
+        "company": "PINEHILL PACIFIC BERHAD",
+        "ticker": "1902"
+    },
+    {
+        "company": "PINTARAS JAYA BHD",
+        "ticker": "9598"
+    },
+    {
+        "company": "PJBUMI BERHAD",
+        "ticker": "7163"
+    },
+    {
+        "company": "PLB ENGINEERING BERHAD",
+        "ticker": "7055"
+    },
+    {
+        "company": "PLENITUDE BERHAD",
+        "ticker": "5075"
+    },
+    {
+        "company": "PLS PLANTATIONS BERHAD",
+        "ticker": "9695"
+    },
+    {
+        "company": "PLYTEC HOLDING BERHAD",
+        "ticker": "0289"
+    },
+    {
+        "company": "PMB TECHNOLOGY BERHAD",
+        "ticker": "7172"
+    },
+    {
+        "company": "PNE PCB BERHAD",
+        "ticker": "6637"
+    },
+    {
+        "company": "POH HUAT RESOURCES HOLDINGS BERHAD",
+        "ticker": "7088"
+    },
+    {
+        "company": "POH KONG HOLDINGS BERHAD",
+        "ticker": "5080"
+    },
+    {
+        "company": "POLYDAMIC GROUP BERHAD",
+        "ticker": "03031"
+    },
+    {
+        "company": "POS MALAYSIA BERHAD",
+        "ticker": "4634"
+    },
+    {
+        "company": "POWER ROOT BERHAD",
+        "ticker": "7237"
+    },
+    {
+        "company": "POWERWELL HOLDINGS BERHAD",
+        "ticker": "0217"
+    },
+    {
+        "company": "PPB GROUP BERHAD",
+        "ticker": "4065"
+    },
+    {
+        "company": "PRESS METAL ALUMINIUM HOLDINGS BERHAD",
+        "ticker": "8869"
+    },
+    {
+        "company": "PRESTAR RESOURCES BERHAD",
+        "ticker": "9873"
+    },
+    {
+        "company": "PRG HOLDINGS BERHAD",
+        "ticker": "7168"
+    },
+    {
+        "company": "PRINCIPAL FTSE ASEAN 40 MALAYSIA ETF",
+        "ticker": "0822EA"
+    },
+    {
+        "company": "PRINCIPAL FTSE CHINA 50 ETF",
+        "ticker": "0823EA"
+    },
+    {
+        "company": "PRIVASIA TECHNOLOGY BERHAD",
+        "ticker": "0123"
+    },
+    {
+        "company": "PROGRESSIVE IMPACT CORPORATION BERHAD",
+        "ticker": "7201"
+    },
+    {
+        "company": "PROLINTAS INFRA BUSINESS TRUST",
+        "ticker": "5320"
+    },
+    {
+        "company": "PROPEL GLOBAL BERHAD",
+        "ticker": "0091"
+    },
+    {
+        "company": "PROTASCO BERHAD",
+        "ticker": "5070"
+    },
+    {
+        "company": "PT RESOURCES HOLDINGS BERHAD",
+        "ticker": "0260"
+    },
+    {
+        "company": "PTT SYNERGY GROUP BERHAD",
+        "ticker": "7010"
+    },
+    {
+        "company": "PUBLIC BANK BERHAD",
+        "ticker": "1295"
+    },
+    {
+        "company": "PUBLIC PACKAGES HOLDINGS BHD",
+        "ticker": "8273"
+    },
+    {
+        "company": "PUC BERHAD",
+        "ticker": "0007"
+    },
+    {
+        "company": "PUNCAK NIAGA HOLDINGS BERHAD",
+        "ticker": "6807"
+    },
+    {
+        "company": "PWF CORPORATION BERHAD",
+        "ticker": "7134"
+    },
+    {
+        "company": "QES GROUP BERHAD",
+        "ticker": "0196"
+    },
+    {
+        "company": "QL RESOURCES BERHAD",
+        "ticker": "7084"
+    },
+    {
+        "company": "QUALITY CONCRETE HOLDINGS BERHAD",
+        "ticker": "7544"
+    },
+    {
+        "company": "RADIANT GLOBALTECH BERHAD",
+        "ticker": "0202"
+    },
+    {
+        "company": "RADIUM DEVELOPMENT BERHAD",
+        "ticker": "5313"
+    },
+    {
+        "company": "RALCO CORPORATION BERHAD",
+        "ticker": "7498"
+    },
+    {
+        "company": "RAMSSOL GROUP BERHAD",
+        "ticker": "0236"
+    },
+    {
+        "company": "RANHILL UTILITIES BERHAD",
+        "ticker": "5272"
+    },
+    {
+        "company": "RAPID SYNERGY BERHAD",
+        "ticker": "7765"
+    },
+    {
+        "company": "RAY GO SOLAR HOLDINGS BERHAD",
+        "ticker": "03052"
+    },
+    {
+        "company": "RCE CAPITAL BERHAD",
+        "ticker": "9296"
+    },
+    {
+        "company": "REACH ENERGY BERHAD",
+        "ticker": "5256"
+    },
+    {
+        "company": "RED IDEAS HOLDINGS BERHAD",
+        "ticker": "03002"
+    },
+    {
+        "company": "RED SENA BERHAD",
+        "ticker": "5270"
+    },
+    {
+        "company": "REDPLANET BERHAD",
+        "ticker": "03036"
+    },
+    {
+        "company": "REDTONE DIGITAL BERHAD",
+        "ticker": "0032"
+    },
+    {
+        "company": "REKATECH CAPITAL BERHAD",
+        "ticker": "0081"
+    },
+    {
+        "company": "RENEUCO BERHAD",
+        "ticker": "7130"
+    },
+    {
+        "company": "RESERVOIR LINK ENERGY BHD",
+        "ticker": "0219"
+    },
+    {
+        "company": "RESINTECH BERHAD",
+        "ticker": "7232"
+    },
+    {
+        "company": "REVENUE GROUP BERHAD",
+        "ticker": "0200"
+    },
+    {
+        "company": "REX INDUSTRY BERHAD",
+        "ticker": "9946"
+    },
+    {
+        "company": "REXIT BERHAD",
+        "ticker": "0106"
+    },
+    {
+        "company": "RGB INTERNATIONAL BHD",
+        "ticker": "0037"
+    },
+    {
+        "company": "RGT BERHAD",
+        "ticker": "9954"
+    },
+    {
+        "company": "RHB BANK BERHAD",
+        "ticker": "1066"
+    },
+    {
+        "company": "RHONE MA HOLDINGS BERHAD",
+        "ticker": "5278"
+    },
+    {
+        "company": "RHONG KHEN INTERNATIONAL BERHAD",
+        "ticker": "7006"
+    },
+    {
+        "company": "RIMBUNAN SAWIT BERHAD",
+        "ticker": "5113"
+    },
+    {
+        "company": "RIVERVIEW RUBBER ESTATES BERHAD",
+        "ticker": "2542"
+    },
+    {
+        "company": "ROHAS TECNIC BERHAD",
+        "ticker": "9741"
+    },
+    {
+        "company": "RTS TECHNOLOGY HOLDINGS BERHAD",
+        "ticker": "03039"
+    },
+    {
+        "company": "S & F CAPITAL BERHAD",
+        "ticker": "8745"
+    },
+    {
+        "company": "S P SETIA BERHAD",
+        "ticker": "8664"
+    },
+    {
+        "company": "SAFETYWARE GROUP BERHAD",
+        "ticker": "03056"
+    },
+    {
+        "company": "SALCON BERHAD",
+        "ticker": "8567"
+    },
+    {
+        "company": "SALUTICA BERHAD",
+        "ticker": "0183"
+    },
+    {
+        "company": "SAM ENGINEERING & EQUIPMENT (M) BERHAD",
+        "ticker": "9822"
+    },
+    {
+        "company": "SAMAIDEN GROUP BERHAD",
+        "ticker": "0223"
+    },
+    {
+        "company": "SAMCHEM HOLDINGS BERHAD",
+        "ticker": "5147"
+    },
+    {
+        "company": "SANCY BERHAD",
+        "ticker": "03057"
+    },
+    {
+        "company": "SANICHI TECHNOLOGY BERHAD",
+        "ticker": "0133"
+    },
+    {
+        "company": "SAPURA ENERGY BERHAD",
+        "ticker": "5218"
+    },
+    {
+        "company": "SAPURA INDUSTRIAL BERHAD",
+        "ticker": "7811"
+    },
+    {
+        "company": "SAPURA RESOURCES BERHAD",
+        "ticker": "4596"
+    },
+    {
+        "company": "SARAWAK CABLE BERHAD",
+        "ticker": "5170"
+    },
+    {
+        "company": "SARAWAK CONSOLIDATED INDUSTRIES BERHAD",
+        "ticker": "9237"
+    },
+    {
+        "company": "SARAWAK OIL PALMS BERHAD",
+        "ticker": "5126"
+    },
+    {
+        "company": "SARAWAK PLANTATION BERHAD",
+        "ticker": "5135"
+    },
+    {
+        "company": "SASBADI HOLDINGS BERHAD",
+        "ticker": "5252"
+    },
+    {
+        "company": "SAUDEE GROUP BERHAD",
+        "ticker": "5157"
+    },
+    {
+        "company": "SBC CORPORATION BERHAD",
+        "ticker": "5207"
+    },
+    {
+        "company": "SBH MARINE HOLDINGS BERHAD",
+        "ticker": "0300"
+    },
+    {
+        "company": "SC ESTATE BUILDER BERHAD",
+        "ticker": "0109"
+    },
+    {
+        "company": "SCANWOLF CORPORATION BERHAD",
+        "ticker": "7239"
+    },
+    {
+        "company": "SCC HOLDINGS BERHAD",
+        "ticker": "0158"
+    },
+    {
+        "company": "SCGM BHD",
+        "ticker": "7247"
+    },
+    {
+        "company": "SCICOM (MSC) BERHAD",
+        "ticker": "0099"
+    },
+    {
+        "company": "SCIENTEX BERHAD",
+        "ticker": "4731"
+    },
+    {
+        "company": "SCIENTEX PACKAGING (AYER KEROH) BERHAD",
+        "ticker": "8125"
+    },
+    {
+        "company": "SCOMI ENERGY SERVICES BHD",
+        "ticker": "7045"
+    },
+    {
+        "company": "SCOPE INDUSTRIES BERHAD",
+        "ticker": "0028"
+    },
+    {
+        "company": "SD GUTHRIE BERHAD",
+        "ticker": "5285"
+    },
+    {
+        "company": "SDS GROUP BERHAD",
+        "ticker": "0212"
+    },
+    {
+        "company": "SEACERA GROUP BERHAD",
+        "ticker": "7073"
+    },
+    {
+        "company": "SEAL INCORPORATED BERHAD",
+        "ticker": "4286"
+    },
+    {
+        "company": "SEALINK INTERNATIONAL BERHAD",
+        "ticker": "5145"
+    },
+    {
+        "company": "SECUREMETRIC BERHAD",
+        "ticker": "0203"
+    },
+    {
+        "company": "SEDANIA INNOVATOR BERHAD",
+        "ticker": "0178"
+    },
+    {
+        "company": "SEE HUP CONSOLIDATED BERHAD",
+        "ticker": "7053"
+    },
+    {
+        "company": "SEERS BERHAD",
+        "ticker": "03009"
+    },
+    {
+        "company": "SEG INTERNATIONAL BHD",
+        "ticker": "9792"
+    },
+    {
+        "company": "SELANGOR DREDGING BERHAD",
+        "ticker": "2224"
+    },
+    {
+        "company": "SENG FONG HOLDINGS BERHAD",
+        "ticker": "5308"
+    },
+    {
+        "company": "SENHENG NEW RETAIL BERHAD",
+        "ticker": "5305"
+    },
+    {
+        "company": "SENI JAYA CORPORATION BERHAD",
+        "ticker": "9431"
+    },
+    {
+        "company": "SENTORIA GROUP BERHAD",
+        "ticker": "5213"
+    },
+    {
+        "company": "SENTRAL REIT",
+        "ticker": "5123"
+    },
+    {
+        "company": "SEREMBAN ENGINEERING BERHAD",
+        "ticker": "5163"
+    },
+    {
+        "company": "SERN KOU RESOURCES BERHAD",
+        "ticker": "7180"
+    },
+    {
+        "company": "SERSOL BERHAD",
+        "ticker": "0055"
+    },
+    {
+        "company": "SFP TECH HOLDINGS BERHAD",
+        "ticker": "0251"
+    },
+    {
+        "company": "SHANGRI-LA HOTELS (MALAYSIA) BERHAD",
+        "ticker": "5517"
+    },
+    {
+        "company": "SHH RESOURCES HOLDINGS BERHAD",
+        "ticker": "7412"
+    },
+    {
+        "company": "SHIN YANG GROUP BERHAD",
+        "ticker": "5173"
+    },
+    {
+        "company": "SHL CONSOLIDATED BHD",
+        "ticker": "6017"
+    },
+    {
+        "company": "SIAB HOLDINGS BERHAD",
+        "ticker": "0241"
+    },
+    {
+        "company": "SIGNATURE INTERNATIONAL BERHAD",
+        "ticker": "7246"
+    },
+    {
+        "company": "SILVER RIDGE HOLDINGS BHD",
+        "ticker": "0129"
+    },
+    {
+        "company": "SIME DARBY BERHAD",
+        "ticker": "4197"
+    },
+    {
+        "company": "SIME DARBY PROPERTY BERHAD",
+        "ticker": "5288"
+    },
+    {
+        "company": "SIN HENG CHAN (MALAYA) BERHAD",
+        "ticker": "4316"
+    },
+    {
+        "company": "SINARAN ADVANCE GROUP BERHAD",
+        "ticker": "5172"
+    },
+    {
+        "company": "SIN-KUNG LOGISTICS BERHAD",
+        "ticker": "0305"
+    },
+    {
+        "company": "SINMAH CAPITAL BERHAD",
+        "ticker": "9776"
+    },
+    {
+        "company": "SKB SHUTTERS CORPORATION BERHAD",
+        "ticker": "7115"
+    },
+    {
+        "company": "SKP RESOURCES BHD",
+        "ticker": "7155"
+    },
+    {
+        "company": "SKYWORLD DEVELOPMENT BERHAD",
+        "ticker": "5315"
+    },
+    {
+        "company": "SL INNOVATION CAPITAL BERHAD",
+        "ticker": "03008"
+    },
+    {
+        "company": "SLP RESOURCES BERHAD",
+        "ticker": "7248"
+    },
+    {
+        "company": "SMART ASIA CHEMICAL BHD",
+        "ticker": "0306"
+    },
+    {
+        "company": "SMILE-LINK HEALTHCARE GLOBAL BERHAD",
+        "ticker": "03023"
+    },
+    {
+        "company": "SMIS CORPORATION BERHAD",
+        "ticker": "7132"
+    },
+    {
+        "company": "SMRT HOLDINGS BERHAD",
+        "ticker": "0117"
+    },
+    {
+        "company": "SMTRACK BERHAD",
+        "ticker": "0169"
+    },
+    {
+        "company": "SNOWFIT GROUP BERHAD",
+        "ticker": "03054"
+    },
+    {
+        "company": "SNS NETWORK TECHNOLOGY BERHAD",
+        "ticker": "0259"
+    },
+    {
+        "company": "SOLARVEST HOLDINGS BERHAD",
+        "ticker": "0215"
+    },
+    {
+        "company": "SOLID AUTOMOTIVE BERHAD",
+        "ticker": "5242"
+    },
+    {
+        "company": "SOLUTION GROUP BERHAD",
+        "ticker": "0093"
+    },
+    {
+        "company": "SOUTH MALAYSIA INDUSTRIES BERHAD",
+        "ticker": "4375"
+    },
+    {
+        "company": "SOUTHERN ACIDS (M) BERHAD",
+        "ticker": "5134"
+    },
+    {
+        "company": "SOUTHERN CABLE GROUP BERHAD",
+        "ticker": "0225"
+    },
+    {
+        "company": "SOUTHERN SCORE BUILDERS BERHAD",
+        "ticker": "0045"
+    },
+    {
+        "company": "SOUTHERN STEEL BERHAD",
+        "ticker": "5665"
+    },
+    {
+        "company": "SPORTS TOTO BERHAD",
+        "ticker": "1562"
+    },
+    {
+        "company": "SPRING ART HOLDINGS BERHAD",
+        "ticker": "0216"
+    },
+    {
+        "company": "SPRITZER BHD",
+        "ticker": "7103"
+    },
+    {
+        "company": "SSF HOME GROUP BERHAD",
+        "ticker": "0287"
+    },
+    {
+        "company": "STAR MEDIA GROUP BERHAD",
+        "ticker": "6084"
+    },
+    {
+        "company": "STEEL HAWK BERHAD",
+        "ticker": "03049"
+    },
+    {
+        "company": "STRAITS ENERGY RESOURCES BERHAD",
+        "ticker": "0080"
+    },
+    {
+        "company": "SUBUR TIASA HOLDINGS BERHAD",
+        "ticker": "6904"
+    },
+    {
+        "company": "SUCCESS TRANSFORMER CORPORATION BERHAD",
+        "ticker": "7207"
+    },
+    {
+        "company": "SUNGEI BAGAN RUBBER COMPANY (MALAYA) BERHAD",
+        "ticker": "2569"
+    },
+    {
+        "company": "SUNMOW HOLDING BERHAD",
+        "ticker": "03050"
+    },
+    {
+        "company": "SUNSURIA BERHAD",
+        "ticker": "3743"
+    },
+    {
+        "company": "SUNVIEW GROUP BERHAD",
+        "ticker": "0262"
+    },
+    {
+        "company": "SUNWAY BERHAD",
+        "ticker": "5211"
+    },
+    {
+        "company": "SUNWAY CONSTRUCTION GROUP BERHAD",
+        "ticker": "5263"
+    },
+    {
+        "company": "SUNWAY REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5176"
+    },
+    {
+        "company": "SUNZEN BIOTECH BERHAD",
+        "ticker": "0148"
+    },
+    {
+        "company": "SUPERCOMNET TECHNOLOGIES BERHAD",
+        "ticker": "0001"
+    },
+    {
+        "company": "SUPERGENICS BERHAD",
+        "ticker": "03033"
+    },
+    {
+        "company": "SUPERLON HOLDINGS BERHAD",
+        "ticker": "7235"
+    },
+    {
+        "company": "SUPERMAX CORPORATION BERHAD",
+        "ticker": "7106"
+    },
+    {
+        "company": "SUPREME CONSOLIDATED RESOURCES BERHAD",
+        "ticker": "03018"
+    },
+    {
+        "company": "SURIA CAPITAL HOLDINGS BERHAD",
+        "ticker": "6521"
+    },
+    {
+        "company": "SWIFT HAULAGE BERHAD",
+        "ticker": "5303"
+    },
+    {
+        "company": "SWS CAPITAL BERHAD",
+        "ticker": "7186"
+    },
+    {
+        "company": "SYARIKAT TAKAFUL MALAYSIA KELUARGA BERHAD",
+        "ticker": "6139"
+    },
+    {
+        "company": "SYCAL VENTURES BERHAD",
+        "ticker": "9717"
+    },
+    {
+        "company": "SYMPHONY LIFE BERHAD",
+        "ticker": "1538"
+    },
+    {
+        "company": "SYNERGY HOUSE BERHAD",
+        "ticker": "0279"
+    },
+    {
+        "company": "SYSTECH BHD",
+        "ticker": "0050"
+    },
+    {
+        "company": "T7 GLOBAL BERHAD",
+        "ticker": "7228"
+    },
+    {
+        "company": "TA ANN HOLDINGS BERHAD",
+        "ticker": "5012"
+    },
+    {
+        "company": "TA WIN HOLDINGS BERHAD",
+        "ticker": "7097"
+    },
+    {
+        "company": "TAFI INDUSTRIES BERHAD",
+        "ticker": "7211"
+    },
+    {
+        "company": "TALAM TRANSFORM BERHAD",
+        "ticker": "2259"
+    },
+    {
+        "company": "TALIWORKS CORPORATION BERHAD",
+        "ticker": "8524"
+    },
+    {
+        "company": "TAMBUN INDAH LAND BERHAD",
+        "ticker": "5191"
+    },
+    {
+        "company": "TAN CHONG MOTOR HOLDINGS BERHAD",
+        "ticker": "4405"
+    },
+    {
+        "company": "TANCO HOLDINGS BERHAD",
+        "ticker": "2429"
+    },
+    {
+        "company": "TAS OFFSHORE BERHAD",
+        "ticker": "5149"
+    },
+    {
+        "company": "TASCO BERHAD",
+        "ticker": "5140"
+    },
+    {
+        "company": "TASHIN HOLDINGS BERHAD",
+        "ticker": "0211"
+    },
+    {
+        "company": "TCS GROUP HOLDINGS BERHAD",
+        "ticker": "0221"
+    },
+    {
+        "company": "TDM BERHAD",
+        "ticker": "2054"
+    },
+    {
+        "company": "TECHBASE INDUSTRIES BERHAD",
+        "ticker": "8966"
+    },
+    {
+        "company": "TECHBOND GROUP BERHAD",
+        "ticker": "5289"
+    },
+    {
+        "company": "TECHNA-X BERHAD",
+        "ticker": "2739"
+    },
+    {
+        "company": "TECHNODEX BHD",
+        "ticker": "0132"
+    },
+    {
+        "company": "TECK GUAN PERDANA BERHAD",
+        "ticker": "7439"
+    },
+    {
+        "company": "TEK SENG HOLDINGS BERHAD",
+        "ticker": "7200"
+    },
+    {
+        "company": "TELADAN GROUP BERHAD",
+        "ticker": "0230"
+    },
+    {
+        "company": "TELEKOM MALAYSIA BERHAD",
+        "ticker": "4863"
+    },
+    {
+        "company": "TENAGA NASIONAL BHD",
+        "ticker": "5347"
+    },
+    {
+        "company": "TEO GUAN LEE CORPORATION BERHAD",
+        "ticker": "9369"
+    },
+    {
+        "company": "TEO SENG CAPITAL BERHAD",
+        "ticker": "7252"
+    },
+    {
+        "company": "TEX CYCLE TECHNOLOGY (M) BERHAD",
+        "ticker": "0089"
+    },
+    {
+        "company": "TEXCHEM RESOURCES BERHAD",
+        "ticker": "8702"
+    },
+    {
+        "company": "TFP SOLUTIONS BERHAD",
+        "ticker": "0145"
+    },
+    {
+        "company": "TH PLANTATIONS BERHAD",
+        "ticker": "5112"
+    },
+    {
+        "company": "THETA EDGE BERHAD",
+        "ticker": "9075"
+    },
+    {
+        "company": "THONG GUAN INDUSTRIES BERHAD",
+        "ticker": "7034"
+    },
+    {
+        "company": "THREE-A RESOURCES BERHAD",
+        "ticker": "0012"
+    },
+    {
+        "company": "THRIVEN GLOBAL BERHAD",
+        "ticker": "7889"
+    },
+    {
+        "company": "TIEN WAH PRESS HOLDINGS BERHAD",
+        "ticker": "7374"
+    },
+    {
+        "company": "TIMBERWELL BERHAD",
+        "ticker": "7854"
+    },
+    {
+        "company": "TIME DOTCOM BERHAD",
+        "ticker": "5031"
+    },
+    {
+        "company": "TIONG NAM LOGISTICS HOLDINGS BERHAD",
+        "ticker": "8397"
+    },
+    {
+        "company": "TITIJAYA LAND BERHAD",
+        "ticker": "5239"
+    },
+    {
+        "company": "TMC LIFE SCIENCES BERHAD",
+        "ticker": "0101"
+    },
+    {
+        "company": "TOMEI CONSOLIDATED BERHAD",
+        "ticker": "7230"
+    },
+    {
+        "company": "TOMYPAK HOLDINGS BERHAD",
+        "ticker": "7285"
+    },
+    {
+        "company": "TONG HERR RESOURCES BERHAD",
+        "ticker": "5010"
+    },
+    {
+        "company": "TOP GLOVE CORPORATION BHD",
+        "ticker": "7113"
+    },
+    {
+        "company": "TOPMIX BERHAD",
+        "ticker": "0302"
+    },
+    {
+        "company": "TOPVISION EYE SPECIALIST BERHAD",
+        "ticker": "03013"
+    },
+    {
+        "company": "TOTAL DYNAMIC HOLDINGS BERHAD",
+        "ticker": "03058"
+    },
+    {
+        "company": "TOWER REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5111"
+    },
+    {
+        "company": "TOYO VENTURES HOLDINGS BERHAD",
+        "ticker": "7173"
+    },
+    {
+        "company": "TPC PLUS BERHAD",
+        "ticker": "7176"
+    },
+    {
+        "company": "TRADEPLUS DWA MALAYSIA MOMENTUM TRACKER",
+        "ticker": "0836EA"
+    },
+    {
+        "company": "TRADEPLUS MSCI ASIA EX JAPAN REITS TRACKER",
+        "ticker": "0837EA"
+    },
+    {
+        "company": "TRADEPLUS S&P NEW CHINA TRACKER-MYR",
+        "ticker": "0829EA"
+    },
+    {
+        "company": "TRADEPLUS S&P NEW CHINA TRACKER-USD",
+        "ticker": "0829EB"
+    },
+    {
+        "company": "TRADEPLUS SHARIAH GOLD TRACKER",
+        "ticker": "0828EA"
+    },
+    {
+        "company": "TRC SYNERGY BERHAD",
+        "ticker": "5054"
+    },
+    {
+        "company": "TRI-MODE SYSTEM (M) BERHAD",
+        "ticker": "0199"
+    },
+    {
+        "company": "TRIVE PROPERTY GROUP BERHAD",
+        "ticker": "0118"
+    },
+    {
+        "company": "TROPICANA CORPORATION BERHAD",
+        "ticker": "5401"
+    },
+    {
+        "company": "TSA GROUP BERHAD",
+        "ticker": "0297"
+    },
+    {
+        "company": "TSH RESOURCES BERHAD",
+        "ticker": "9059"
+    },
+    {
+        "company": "TSR CAPITAL BERHAD",
+        "ticker": "5042"
+    },
+    {
+        "company": "TT VISION HOLDINGS BERHAD",
+        "ticker": "0272"
+    },
+    {
+        "company": "TUJU SETIA BERHAD",
+        "ticker": "5297"
+    },
+    {
+        "company": "TUNE PROTECT GROUP BERHAD",
+        "ticker": "5230"
+    },
+    {
+        "company": "TURBO-MECH BERHAD",
+        "ticker": "5167"
+    },
+    {
+        "company": "TURIYA BERHAD",
+        "ticker": "4359"
+    },
+    {
+        "company": "TWL HOLDINGS BERHAD",
+        "ticker": "7079"
+    },
+    {
+        "company": "UCHI TECHNOLOGIES BERHAD",
+        "ticker": "7100"
+    },
+    {
+        "company": "UCI RESOURCES BERHAD",
+        "ticker": "03043"
+    },
+    {
+        "company": "UCREST BERHAD",
+        "ticker": "0005"
+    },
+    {
+        "company": "UEM EDGENTA BERHAD",
+        "ticker": "1368"
+    },
+    {
+        "company": "UEM SUNRISE BERHAD",
+        "ticker": "5148"
+    },
+    {
+        "company": "UMEDIC GROUP BERHAD",
+        "ticker": "0256"
+    },
+    {
+        "company": "UMS HOLDINGS BERHAD",
+        "ticker": "7137"
+    },
+    {
+        "company": "UMS-NEIKEN GROUP BERHAD",
+        "ticker": "7227"
+    },
+    {
+        "company": "UNI WALL APS HOLDINGS BERHAD",
+        "ticker": "03017"
+    },
+    {
+        "company": "UNIMECH GROUP BERHAD",
+        "ticker": "7091"
+    },
+    {
+        "company": "UNIQUE FIRE HOLDINGS BERHAD",
+        "ticker": "0257"
+    },
+    {
+        "company": "UNISEM (M) BERHAD",
+        "ticker": "5005"
+    },
+    {
+        "company": "UNITED MALACCA BERHAD",
+        "ticker": "2593"
+    },
+    {
+        "company": "UNITED PLANTATIONS BERHAD",
+        "ticker": "2089"
+    },
+    {
+        "company": "UNITED U-LI CORPORATION BERHAD",
+        "ticker": "7133"
+    },
+    {
+        "company": "UNITRADE INDUSTRIES BERHAD",
+        "ticker": "0247"
+    },
+    {
+        "company": "UOA DEVELOPMENT BHD",
+        "ticker": "5200"
+    },
+    {
+        "company": "UOA REAL ESTATE INVESTMENT TRUST",
+        "ticker": "5110"
+    },
+    {
+        "company": "UPA CORPORATION BHD",
+        "ticker": "7757"
+    },
+    {
+        "company": "UUE HOLDINGS BERHAD",
+        "ticker": "0310"
+    },
+    {
+        "company": "UWC BERHAD",
+        "ticker": "5292"
+    },
+    {
+        "company": "UZMA BERHAD",
+        "ticker": "7250"
+    },
+    {
+        "company": "V.S. INDUSTRY BERHAD",
+        "ticker": "6963"
+    },
+    {
+        "company": "VARIA BERHAD",
+        "ticker": "5006"
+    },
+    {
+        "company": "VELESTO ENERGY BERHAD",
+        "ticker": "5243"
+    },
+    {
+        "company": "VELOCITY CAPITAL PARTNER BERHAD",
+        "ticker": "7165"
+    },
+    {
+        "company": "VERSATILE CREATIVE BERHAD",
+        "ticker": "4995"
+    },
+    {
+        "company": "VESTLAND BERHAD",
+        "ticker": "0273"
+    },
+    {
+        "company": "VINVEST CAPITAL HOLDINGS BERHAD",
+        "ticker": "0069"
+    },
+    {
+        "company": "VISDYNAMICS HOLDINGS BERHAD",
+        "ticker": "0120"
+    },
+    {
+        "company": "VITROX CORPORATION BERHAD",
+        "ticker": "0097"
+    },
+    {
+        "company": "VIZIONE HOLDINGS BERHAD",
+        "ticker": "7070"
+    },
+    {
+        "company": "VOLCANO BERHAD",
+        "ticker": "0232"
+    },
+    {
+        "company": "VP-DJ SHARIAH CHINA A-SHARES 100 ETF - MYR",
+        "ticker": "0838EA"
+    },
+    {
+        "company": "VSOLAR GROUP BERHAD",
+        "ticker": "0066"
+    },
+    {
+        "company": "VSTECS BERHAD",
+        "ticker": "5162"
+    },
+    {
+        "company": "WAJA KONSORTIUM BERHAD",
+        "ticker": "0102"
+    },
+    {
+        "company": "WANG-ZHENG BERHAD",
+        "ticker": "7203"
+    },
+    {
+        "company": "WARISAN TC HOLDINGS BERHAD",
+        "ticker": "5016"
+    },
+    {
+        "company": "WASCO BERHAD",
+        "ticker": "5142"
+    },
+    {
+        "company": "WATTA HOLDING BERHAD",
+        "ticker": "7226"
+    },
+    {
+        "company": "WCE HOLDINGS BERHAD",
+        "ticker": "3565"
+    },
+    {
+        "company": "WCT HOLDINGS BERHAD",
+        "ticker": "9679"
+    },
+    {
+        "company": "WEGMANS HOLDINGS BERHAD",
+        "ticker": "0197"
+    },
+    {
+        "company": "WELL CHIP GROUP BERHAD",
+        "ticker": "5325"
+    },
+    {
+        "company": "WELLCALL HOLDINGS BERHAD",
+        "ticker": "7231"
+    },
+    {
+        "company": "WELLSPIRE HOLDINGS BERHAD",
+        "ticker": "0271"
+    },
+    {
+        "company": "WENTEL ENGINEERING HOLDINGS BERHAD",
+        "ticker": "0298"
+    },
+    {
+        "company": "WESTPORTS HOLDINGS BERHAD",
+        "ticker": "5246"
+    },
+    {
+        "company": "WHITE HORSE BERHAD",
+        "ticker": "5009"
+    },
+    {
+        "company": "WIDAD GROUP BERHAD",
+        "ticker": "0162"
+    },
+    {
+        "company": "WILLOWGLEN MSC BERHAD",
+        "ticker": "0008"
+    },
+    {
+        "company": "WMG HOLDINGS BERHAD",
+        "ticker": "6378"
+    },
+    {
+        "company": "WONG ENGINEERING CORPORATION BERHAD",
+        "ticker": "7050"
+    },
+    {
+        "company": "WOODLANDOR HOLDINGS BHD",
+        "ticker": "7025"
+    },
+    {
+        "company": "WTK HOLDINGS BERHAD",
+        "ticker": "4243"
+    },
+    {
+        "company": "XIDELANG HOLDINGS LTD",
+        "ticker": "5156"
+    },
+    {
+        "company": "XIN HWA HOLDINGS BERHAD",
+        "ticker": "5267"
+    },
+    {
+        "company": "XIN SYNERGY GROUP BERHAD",
+        "ticker": "7043"
+    },
+    {
+        "company": "XL HOLDINGS BERHAD",
+        "ticker": "7121"
+    },
+    {
+        "company": "XOX BHD",
+        "ticker": "0165"
+    },
+    {
+        "company": "XOX NETWORKS BERHAD",
+        "ticker": "0140"
+    },
+    {
+        "company": "XOX TECHNOLOGY BERHAD",
+        "ticker": "0017"
+    },
+    {
+        "company": "Y&G CORPORATION BHD",
+        "ticker": "7003"
+    },
+    {
+        "company": "Y.S.P. SOUTHEAST ASIA HOLDING BERHAD",
+        "ticker": "7178"
+    },
+    {
+        "company": "YB VENTURES BERHAD",
+        "ticker": "5048"
+    },
+    {
+        "company": "YBS INTERNATIONAL BERHAD",
+        "ticker": "0025"
+    },
+    {
+        "company": "YENHER HOLDINGS BERHAD",
+        "ticker": "5300"
+    },
+    {
+        "company": "YEW LEE PACIFIC GROUP BERHAD",
+        "ticker": "0248"
+    },
+    {
+        "company": "YGL CONVERGENCE BERHAD",
+        "ticker": "0086"
+    },
+    {
+        "company": "YINSON HOLDINGS BERHAD",
+        "ticker": "7293"
+    },
+    {
+        "company": "YLI HOLDINGS BERHAD",
+        "ticker": "7014"
+    },
+    {
+        "company": "YNH PROPERTY BERHAD",
+        "ticker": "3158"
+    },
+    {
+        "company": "YONG TAI BERHAD",
+        "ticker": "7066"
+    },
+    {
+        "company": "YOONG ONN CORPORATION BERHAD",
+        "ticker": "5159"
+    },
+    {
+        "company": "YTL CORPORATION BERHAD",
+        "ticker": "4677"
+    },
+    {
+        "company": "YTL HOSPITALITY REIT",
+        "ticker": "5109"
+    },
+    {
+        "company": "YTL POWER INTERNATIONAL BHD",
+        "ticker": "6742"
+    },
+    {
+        "company": "YX PRECIOUS METALS BHD",
+        "ticker": "0250"
+    },
+    {
+        "company": "ZANTAT HOLDINGS BERHAD",
+        "ticker": "0301"
+    },
+    {
+        "company": "ZECON BERHAD",
+        "ticker": "7028"
+    },
+    {
+        "company": "ZELAN BERHAD",
+        "ticker": "2283"
+    },
+    {
+        "company": "ZEN TECH INTERNATIONAL BERHAD",
+        "ticker": "0094"
+    },
+    {
+        "company": "ZHULIAN CORPORATION BERHAD",
+        "ticker": "5131"
+    }
+]
