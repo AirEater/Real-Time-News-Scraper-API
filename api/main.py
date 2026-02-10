@@ -162,16 +162,17 @@ class SubscriptionManager:
         
         return subscriptions
     
-    async def update_subscription_status(self, subscription_id: str, updates: Dict):
-        """Update subscription status in MongoDB"""
+    async def update_subscription_status(self, subscription_id: str, updates: Dict) -> bool:
+        """Update subscription status in MongoDB and return whether the subscription exists."""
         updates['updated_at'] = datetime.utcnow()
-        await asyncio.get_event_loop().run_in_executor(
+        result = await asyncio.get_event_loop().run_in_executor(
             None,
             lambda: self.mongo_collection.update_one(
                 {'subscription_id': subscription_id},
                 {'$set': updates}
             )
         )
+        return result.matched_count > 0
 
 
 # --- Background delivery system ---

@@ -16,3 +16,5 @@ uvicorn
 webdriver-manager
 beautifulsoup4
 flask
+pytest
+pytest-asyncio

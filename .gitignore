@@ -189,3 +189,6 @@ $RECYCLE.BIN/
 # Temporary scraping artifacts
 List_of_Companies.pdf
 *.crdownload
+
+Docs/
+RESUME_CODEBASE_ANALYSIS.md
